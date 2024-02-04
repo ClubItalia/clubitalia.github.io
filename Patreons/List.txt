@@ -4,10 +4,8 @@ Tier 5
 
 Tier 4
 
-LexarFT
 miso-vr
 Sayl_
-vasilion22
 悪魔 Akuma
 
 Tier 3
@@ -19,9 +17,12 @@ Quil897
 Tier 2
 
 Asuna EU
+vasilion22
 TheIceDragonz
 
 Tier 1
+
+LexarFT
 
 
 
