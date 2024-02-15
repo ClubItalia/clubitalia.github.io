@@ -5,7 +5,6 @@ Tier 5
 Tier 4
 
 miso-vr
-Sayl_
 悪魔 Akuma
 
 Tier 3
@@ -18,6 +17,7 @@ Tier 2
 
 Asuna EU
 TheIceDragonz
+Sayl_
 vasilion22
 
 Tier 1
