@@ -18,39 +18,7 @@ jobs:
 
       - name: Fetching json files~ 📃
         run: |
-          files=($(ls ./string-core/*.json))
-          json_cnt=0
-          json_array="{"
-          
-          # Iterate the global data.
-          for file in "${files[@]}"
-          do
-            file_name=$(basename -- "$file" .json)
-
-            # Append "," from the second iteration onwards.
-            [[ $json_cnt -eq 0 ]] && json_cnt=$((json_cnt+1)) || json_array+=","
-
-            # Use jq to order the values alphabetically inside each key
-            json_array+="\"$file_name\":$(jq -c 'with_entries(.value |= sort)' "$file")"
-          done
-          
-          # Iterate the sub-modules.
-          files=($(ls ./string-core/sub-modules/*.json))
-          for file in "${files[@]}"
-          do
-            sub_json_array=$json_array
-            file_name=$(basename -- "$file" .json)
-
-            # Use jq to append the json
-            sub_json_array+=",\"$file_name\":$(jq -c . < "$file")}"
-
-            mkdir -p ./.baked/string/sub-modules && touch "./.baked/string/sub-modules/${file_name}.json"
-            echo $sub_json_array > "./.baked/string/sub-modules/${file_name}.json"
-          done
-
-          json_array+="}"
-          mkdir -p ./.baked/string && touch ./.baked/string/global.json
-          echo $json_array > ./.baked/string/global.json
+          python ./.baked/string.py
 
       - name: Commiting changes! 📦️
         run: |
