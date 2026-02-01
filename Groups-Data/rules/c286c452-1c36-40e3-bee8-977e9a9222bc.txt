@@ -25,7 +25,7 @@ CLIENT MODIFICATI: Vietati Client con funzioni illegali/malicious. Tolleranza Ze
 🕵️ 𝟒. PRIVACY, SPIONAGGIO E SFW
 ANTI-SPIA: Infiltrarsi per estorcere/diffondere info su Staff/Utenti per conto terzi = BAN ISTANTANEO + Segnalazione al gruppo mandante.
 
-NO REC: VIETATO registrare, streamare o fare screen di massa senza permesso scritto.
+NO REC: VIETATO registrare, streamare o fare screen di massa senza permesso.
 
 SFW MODE: Vietato ERP (anche privato), Avatar NSFW (nudi) e atti allusivi.
 
@@ -48,4 +48,4 @@ In questi casi scatta il BAN ISTANTANEO.
 
 Rientrare con un Secondo Account per aggirare un Ban comporta il BAN IMMEDIATO del secondo profilo.
 
-⚠️ NOTA: Lo Staff ha piena discrezionalità di bannare subito in casi ritenuti pericolosi per la sicurezza.
+⚠️ NOTA: Lo Staff ha piena discrezionalità di sanzionare subito l'utente, senza l'obbligo di dare alcuna motivazione
