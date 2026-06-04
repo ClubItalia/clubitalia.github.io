@@ -163,6 +163,13 @@
       "admin" : [ "Ice01_", "MikeyTheItalian", "TheFox_Online" ],
       "staff" : [ ]
     },
+    "2a8bafb2-98dd-4bd4-9a92-c128a6c96e17" : {
+      "name" : "RenzoChillZone",
+      "id" : "grp_d0536686-2fcd-41f7-b4e2-c5abcf0ce4fc",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "fd9945e3-21bd-4e90-a809-865e276ce94c" : {
       "name" : "Rifugio della Famiglia",
       "id" : "grp_9dd2e3f5-9c41-44e3-9755-566a0769b88e",
