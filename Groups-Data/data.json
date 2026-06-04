@@ -167,7 +167,7 @@
       "name" : "RenzoChillZone",
       "id" : "grp_d0536686-2fcd-41f7-b4e2-c5abcf0ce4fc",
       "hide_staff" : false,
-      "admin" : [ ],
+      "admin" : [ "_RENZO_07" ],
       "staff" : [ ]
     },
     "fd9945e3-21bd-4e90-a809-865e276ce94c" : {
