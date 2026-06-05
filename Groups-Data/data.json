@@ -44,6 +44,13 @@
       "admin" : [ "CσCσ", "Shel77" ],
       "staff" : [ ]
     },
+    "670cc63f-acb0-42ed-b4d8-1020ff07125c" : {
+      "name" : "ANTI-SIMP",
+      "id" : "grp_abc084aa-8e88-4a81-83bd-db0141301d07",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "3cc1054a-e2a3-4a30-b3d9-02a23e452fc7" : {
       "name" : "Associazione Orfani Firenze",
       "id" : "grp_11e44af0-d7dd-4014-a577-839dc445fd37",
