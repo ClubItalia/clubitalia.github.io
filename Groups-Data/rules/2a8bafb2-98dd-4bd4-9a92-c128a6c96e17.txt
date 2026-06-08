@@ -1,28 +1,28 @@
 Regolamento RenzoChillZone
 
-REGOLAMENTO CHILLZONE
+Benvenuto/a nella ChillZone!
 
-Comportamento e Privacy:
-Rispetto: Vietati insulti, provocazioni e liti pubbliche (risolvete in privato). L'ironia è permessa solo se non infastidisce gli altri.
+1. Comportamento e Privacy
+Rispetto reciproco: Sono severamente vietati insulti, provocazioni e liti pubbliche. Se hai un contrasto con qualcuno, risolvilo in chat privata.
 
-Contenuti Vietati: No a contenuti NSFW (18+), spam di altri server, simboli nazisti, espressioni di odio e argomenti sensibili (violenza/suicidio).
+Ironia e Scherzi: L'ironia è la benvenuta, ma si ferma dove inizia il fastidio altrui. Se qualcuno ti chiede di smettere, fallo.
 
-Privacy: Vietato registrare audio o video, tranne che per raccogliere prove di una violazione da inviare allo staff.
+Contenuti Vietati: È assolutamente vietato condividere materiale NSFW (18+), spam di altri server, simboli nazisti, espressioni d'odio (hate speech) o trattare argomenti sensibili (violenza, autolesionismo, suicidio).
 
-👤 Avatar ed Effetti Visivi:
+Tutela della Privacy: È vietato registrare audio o video all'interno del server. L'unica eccezione è consentita per raccogliere prove di una violazione da inviare privatamente allo Staff.
 
-Limiti Avatar: Altezza massima 3 metri. Vietati sangue, riferimenti al suicidio, effetti fastidiosi e crashers.
-Lag & Prestazioni: Se il tuo avatar fa laggare gli utenti VR o Mobile, devi cambiarlo.
-Effetti & Armi: Vietato l'abuso di poteri ed effetti grafici eccessivi (es. spam stile Dragon Ball). Le armi sono ammesse solo se non disturbano.
+2. Linee Guida per gli Avatar ed Effetti
+Per evitare crash e rallentamenti, soprattutto a utenti VR e Mobile, segui queste regole:
 
-Staff e Segnalazioni:
-È severamente vietato bloccare i moderatori e l'amministratore (_RENZO_07).
+Dimensioni: L'altezza massima consentita per gli avatar è di 3 metri.
 
-Utenti molesti: Usa subito i tasti Mute e Block nel gioco e segnala il prima possibile allo staff online.
+Limiti estetici: Sono vietati avatar che presentino sangue, riferimenti al suicidio o altrimenti disturbanti. I crashers sono puniti con il ban immediato.
 
-Canali & Supporto  (Sito, Staff e Segnalazioni)
-Vuoi visitare il sito, candidarti nello staff o fare una segnalazione ufficiale?
+Prestazioni (Lag): Se il tuo avatar causa lag o cali di frame ad altri utenti, avrai l'obbligo di cambiarlo.
 
-1 Vai sul tuo Profilo.
-2 Entra nei Gruppi e cerca: renzochillzone.
-3 Clicca sul link del sito accanto all'icona di Discord! 🔗(Sul sito troverai i moduli per i provini staff e le segnalazioni dettagliate).
+Armi ed Effetti Visivi: È vietato l'abuso di poteri ed effetti grafici invasivi (es. spam di onde energetiche stile Dragon Ball). Le armi sono concesse solo se non recano disturbo alla community.
+
+3. Staff e Gestione Utenti
+Interazione con lo Staff: È severamente vietato bloccare i moderatori e l'amministratore (_RENZO_07).
+
+Gestione utenti molesti: Se qualcuno ti disturba, non alimentare la discussione: usa subito le funzioni Mute e Block del gioco e segnala il
