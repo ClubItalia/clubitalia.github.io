@@ -1,28 +1,22 @@
 Regolamento RenzoChillZone
 
-Benvenuto/a nella ChillZone!
+REGOLAMENTO CHILLZONE
+1. Comportamento e Simboli Vietati
+Rispetto: Vietati insulti, liti pubbliche e contenuti NSFW (18+).
 
-1. Comportamento e Privacy
-Rispetto reciproco: Sono severamente vietati insulti, provocazioni e liti pubbliche. Se hai un contrasto con qualcuno, risolvilo in chat privata.
+No Odio: Sono severamente vietati disegni, skin naziste o qualsiasi altro simbolo d'odio e discriminazione.
 
-Ironia e Scherzi: L'ironia è la benvenuta, ma si ferma dove inizia il fastidio altrui. Se qualcuno ti chiede di smettere, fallo.
+Privacy: Vietato registrare audio o video degli utenti (ammesso solo per mandare prove di violazioni allo staff).
 
-Contenuti Vietati: È assolutamente vietato condividere materiale NSFW (18+), spam di altri server, simboli nazisti, espressioni d'odio (hate speech) o trattare argomenti sensibili (violenza, autolesionismo, suicidio).
+2. Divieto di Pubblicità (Sito e Discord)
+No Spam: È assolutamente vietato pubblicizzare altri server Discord, canali Telegram, canali YouTube o link esterni.
 
-Tutela della Privacy: È vietato registrare audio o video all'interno del server. L'unica eccezione è consentita per raccogliere prove di una violazione da inviare privatamente allo Staff.
+Sito e Discord Ufficiali: Gli unici link concessi sono i nostri! Per entrare nel nostro sito web e nel server Discord ufficiale, ti basta andare sul mio profilo (o su quello dello staff) dove trovi tutti i collegamenti diretti.
 
-2. Linee Guida per gli Avatar ed Effetti
-Per evitare crash e rallentamenti, soprattutto a utenti VR e Mobile, segui queste regole:
+3. Avatar ed Effetti Visivi
+Limiti e Lag: Altezza massima 3 metri. Vietati crasher, sangue (gore) o avatar che fanno laggare il server (specialmente per chi gioca da Mobile o VR). Se ti viene chiesto, devi cambiarlo subito.
 
-Dimensioni: L'altezza massima consentita per gli avatar è di 3 metri.
+Poteri e Armi: Vietato lo spam visivo di effetti troppo invasivi (es. mosse in stile Goku). Le armi si possono usare solo con discrezione e senza infastidire nessuno.
 
-Limiti estetici: Sono vietati avatar che presentino sangue, riferimenti al suicidio o altrimenti disturbanti. I crashers sono puniti con il ban immediato.
-
-Prestazioni (Lag): Se il tuo avatar causa lag o cali di frame ad altri utenti, avrai l'obbligo di cambiarlo.
-
-Armi ed Effetti Visivi: È vietato l'abuso di poteri ed effetti grafici invasivi (es. spam di onde energetiche stile Dragon Ball). Le armi sono concesse solo se non recano disturbo alla community.
-
-3. Staff e Gestione Utenti
-Interazione con lo Staff: È severamente vietato bloccare i moderatori e l'amministratore (_RENZO_07).
-
-Gestione utenti molesti: Se qualcuno ti disturba, non alimentare la discussione: usa subito le funzioni Mute e Block del gioco e segnala il
+4. Staff
+Nessun Blocco: È assolutamente vietato bloccare i moderatori e l'admin (_RENZO_07). Lo staff deve sempre avere la possibilità di contattarti in caso di necessità.
