@@ -1,47 +1,35 @@
-# 📜 Regole Ufficiali — Shadow Eclipse
+Regole Ufficiali Shadow Eclipse
 
- 1. Rispetta le regole ufficiali
+1. Regole ufficiali
+Rispetta sempre i Termini di Servizio di Discord e VRChat. Le violazioni gravi possono portare al ban.
 
-Segui sempre i Termini di Servizio di Discord e VRChat. Violazioni gravi possono comportare il ban immediato dal gruppo.
+2. Rispetto reciproco
+Niente insulti, provocazioni, molestie o tossicità. In caso di disagio, contatta lo staff.
 
- 2. Rispetto reciproco
+3. Contenuti inappropriati
+Vietati contenuti NSFW, violenti o offensivi. Evitare anche avatar, suoni, GIF o sticker fuori luogo.
 
-Tratta ogni membro con rispetto. Insulti, provocazioni, molestie o comportamenti tossici non saranno tollerati. Se qualcuno ti mette a disagio, contatta lo staff.
+4. Spam e pubblicità
+No spam, flood o messaggi ripetitivi. Autopromozione vietata senza approvazione staff.
 
- 3. Contenuti inappropriati
+5. Uso dei canali
+Scrivere nei canali corretti e mantenere i contenuti in tema.
 
-Sono vietati contenuti NSFW, materiale disturbante, violenza eccessiva o qualsiasi contenuto offensivo. Evita anche avatar, suoni, GIF o sticker fuori luogo.
+6. Rispetto staff
+Segui le indicazioni dello staff. Niente contatti inutili in privato.
 
- 4. Spam e pubblicità
+7. Odio e discriminazione
+Vietati razzismo, omofobia, hate speech o qualsiasi forma di discriminazione.
 
-Non è consentito spammare, floodare o inviare messaggi ripetitivi. Pubblicità e autopromozione sono vietate senza approvazione dello staff.
+8. Privacy e sicurezza
+Non condividere dati personali propri o altrui. Vietata l’impersonificazione.
 
- 5. Usa i canali correttamente
+9. Comportamento in VRChat
+Niente trolling pesante, molestie, rumori disturbanti o avatar usati per infastidire.
 
-Ogni canale ha il suo scopo. Mantieni le conversazioni in tema ed evita di inviare contenuti nei canali sbagliati.
+10. Sanzioni
+Progressive in base alla gravità: avviso → mute/timeout → kick → ban. Lo staff può intervenire quando necessario.
 
- 6. Rispetta lo staff
-
-Lo staff è qui per mantenere ordine e aiutare la community. Segui le indicazioni fornite ed evita di contattare lo staff in privato senza necessità.
-
- 7. Nessun odio o discriminazione
-
-Razzismo, omofobia, discriminazione, hate speech o qualsiasi forma di linguaggio offensivo sono severamente vietati.
-
- 8. Privacy e sicurezza
-
-Non condividere informazioni personali tue o di altri membri senza consenso. È vietato impersonare altre persone o membri dello staff.
-
- 9. Comportamento in VRChat
-
-Mantieni un comportamento adeguato anche in gioco. Niente trolling pesante, molestie, rumori fastidiosi o avatar creati per disturbare gli altri utenti.
-
- 10. Sistema sanzioni
-
-Le punizioni verranno applicate in base alla gravità della situazione:
-• Avviso
-• Mute / Timeout
-• Kick
-• Ban
-
-Lo staff si riserva il diritto di intervenire quando necessario per proteggere la
+11. Registrazioni
+È vietato registrare o diffondere clip, video, immagini o audio nelle stanze senza il consenso della persona, salvo solo in circostanze importanti e gravi come prova per segnalazioni fondate.
+Uso improprio o provocatorio → ban immediato
