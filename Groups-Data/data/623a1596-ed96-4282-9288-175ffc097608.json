@@ -1,0 +1,14 @@
+{
+  "name" : "Advanced Italia",
+  "has_logo" : true,
+  "has_banner" : false,
+  "rules" : {
+    "title" : "Regolamento Advanced Italia",
+    "body" : "Regolamento di Advanced Italia\nNo odio\nNo molestie\nNo NSFW\nNo attività illegali\nNo rage baiting\n\nSì rispetto\nSì divertimento\nSì gioco\nSì socializzazione\nSì richieste di supporto"
+  },
+  "statistics" : {
+    "instances_created" : 0,
+    "uptime_minutes" : 0,
+    "period_days" : 30
+  }
+}
