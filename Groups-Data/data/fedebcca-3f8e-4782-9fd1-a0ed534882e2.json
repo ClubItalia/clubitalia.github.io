@@ -1,12 +1,9 @@
 {
   "name" : "Club Italia",
-  "rules" : {
-    "title" : "Regolamento Club Italia",
-    "body" : "A"
-  },
+  "rules" : null,
   "statistics" : {
-    "instances_created" : 266,
-    "uptime_minutes" : 51270,
+    "instances_created" : 0,
+    "uptime_minutes" : 0,
     "period_days" : 30
   }
 }
