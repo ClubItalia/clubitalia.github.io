@@ -283,5 +283,7 @@
       "staff" : [ ]
     }
   },
-  "trophies" : { }
+  "trophies" : {
+    "Toxi10" : [ "TEST" ]
+  }
 }
