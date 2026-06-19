@@ -1,0 +1,14 @@
+{
+  "name" : "VRap Italia",
+  "has_logo" : true,
+  "has_banner" : false,
+  "rules" : {
+    "title" : "Regolamento VRap Italia",
+    "body" : "Qui si rappa"
+  },
+  "statistics" : {
+    "instances_created" : 0,
+    "uptime_minutes" : 0,
+    "period_days" : 30
+  }
+}
