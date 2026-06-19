@@ -1,0 +1,14 @@
+{
+  "name" : "NerdITALIA",
+  "has_logo" : true,
+  "has_banner" : false,
+  "rules" : {
+    "title" : "Regolamento NerdITALIA",
+    "body" : "Benvenuti su NerdITALIA! Prima di iniziare a divertirvi con noi nell'istanza, leggete un attimo le regole qui sotto per assicurarvi che sia tutto chiaro!\n\nNo bullismo: È vietato attaccare, prendere in giro pesantemente o insultare intenzionalmente le persone presenti nella stanza. \n\nNo razzismo: Non è tollerato alcun tipo di insulto reale, commento discriminatorio o termine dispregiativo legato alla provenienza o al colore della pelle.\n\nNo omofobia: Vietato l'uso di insulti o atteggiamenti discriminatori contro l'orientamento sessuale o la comunità LGBTQ+.\n\n(le regole precedenti NON valgono se entrambi gli utenti scherzano e non si offendono da qualsiasi parola)\n\nNiente ERP: L'Erotic Roleplay è vietato in questa stanza; per le cose intime dovete spostarvi in un'istanza privata.\n\nNiente discussioni: Non portate qui i vostri litigi o i problemi personali; questa stanza serve solo per stare tranquilli insieme.\n\nNiente effetti fastidiosi: Vietato usare avatar con luci accecanti, flash o effetti grafici troppo grandi che disturbano la visuale degli altri.\n\nLimite di altezza: Gli avatar non possono superare i 4 metri di altezza, altrimenti bloccano la visuale e occupano troppo spazio.\n\nNiente avatar espliciti o pesanti: Non sono ammessi avatar troppo nudi o sessualizzati, e nemmeno quelli troppo pesanti che fanno rallentare il gioco a tutti.\n\nNo disegni inerenti alla nostalgia ne inerenti ai genitali.\n\nDetto questo divertitevi e fate amicizie!"
+  },
+  "statistics" : {
+    "instances_created" : 7,
+    "uptime_minutes" : 609,
+    "period_days" : 30
+  }
+}
