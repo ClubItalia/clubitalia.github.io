@@ -1,5 +1,7 @@
 {
   "name" : "Club Italia",
+  "has_logo" : false,
+  "has_banner" : false,
   "rules" : null,
   "statistics" : {
     "instances_created" : 0,
