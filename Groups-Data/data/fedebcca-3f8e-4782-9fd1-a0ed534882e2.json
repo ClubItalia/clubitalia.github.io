@@ -2,7 +2,10 @@
   "name" : "Club Italia",
   "has_logo" : false,
   "has_banner" : false,
-  "rules" : null,
+  "rules" : {
+    "title" : "Regolamento Club Italia",
+    "body" : "TEST"
+  },
   "statistics" : {
     "instances_created" : 0,
     "uptime_minutes" : 0,
