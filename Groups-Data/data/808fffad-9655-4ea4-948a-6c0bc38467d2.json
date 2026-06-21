@@ -9,6 +9,7 @@
   "statistics" : {
     "instances_created" : 8,
     "uptime_minutes" : 3687,
-    "period_days" : 30
+    "period_days" : 30,
+    "member_count" : 46
   }
 }
