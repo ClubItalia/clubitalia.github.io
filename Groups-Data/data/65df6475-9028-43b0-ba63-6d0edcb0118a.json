@@ -1,5 +1,5 @@
 {
-  "name" : "L'Impero",
+  "name" : "Mittle Fanclub",
   "has_logo" : true,
   "has_banner" : false,
   "rules" : {
@@ -10,6 +10,6 @@
     "instances_created" : 5,
     "uptime_minutes" : 211,
     "period_days" : 30,
-    "member_count" : 95
+    "member_count" : 0
   }
 }
