@@ -55,7 +55,7 @@
       "name" : "Club Italia",
       "id" : "grp_4e511c34-26f8-46ee-a472-c673630bc803",
       "hide_staff" : true,
-      "admin" : [ ],
+      "admin" : [ "Jixteria" ],
       "staff" : [ ]
     },
     "79eb7215-a736-4c69-9589-2f2a0ed9092c" : {
@@ -149,19 +149,19 @@
       "admin" : [ "papera1", "TheIceDragonz" ],
       "staff" : [ ]
     },
-    "65df6475-9028-43b0-ba63-6d0edcb0118a" : {
-      "name" : "L'Impero",
-      "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
-      "hide_staff" : true,
-      "admin" : [ "Mįttlę Ṿêřāno", "Ｎｉｋｐｒｏｃｈｉｃｏｓ" ],
-      "staff" : [ "c4t_boy" ]
-    },
     "289c37f8-37c1-415a-b88e-068b9ae17d94" : {
       "name" : "Made in Sud",
       "id" : "grp_86f88824-16e1-4522-b9ab-e524f56996e6",
       "hide_staff" : false,
       "admin" : [ ],
       "staff" : [ ]
+    },
+    "65df6475-9028-43b0-ba63-6d0edcb0118a" : {
+      "name" : "Mittle Fanclub",
+      "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
+      "hide_staff" : true,
+      "admin" : [ "Mıþþłę", "Ｎｉｋｐｒｏｃｈｉｃｏｓ" ],
+      "staff" : [ "c4t_boy" ]
     },
     "dd6e49d4-1ab4-442f-ba93-f18dc335ef96" : {
       "name" : "NerdITALIA",
