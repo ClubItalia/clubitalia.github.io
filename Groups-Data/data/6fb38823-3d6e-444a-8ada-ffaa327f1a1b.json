@@ -1,15 +1,15 @@
 {
-  "name" : "Soulstorm",
-  "has_logo" : true,
-  "has_banner" : false,
-  "rules" : {
-    "title" : "Regolamento Soulstorm",
-    "body" : "SOULSTORM LE UNICHE REGOLE CHE CONTANO\n\n 1․ RISPETTA․\nTratta tutti con rispetto‚ punto․\nScherzi e prese in giro tra amici ci stanno‚\nma se qualcuno non ride‚ smetti․\nNon serve rovinare le vibe per dimostrare qualcosa․\n\n 2․ DIVERTITI․\nSiamo qui per quello․\nFai casino‚ balla‚ parla‚ gioca‚ conosci gente vivi il momento․\nOgni volta che entri in Soulstorm‚ lascia fuori i pensieri e libera la tua energia․\n\n 3․ INFORMARE LO STAFF˸\nSe qualcuno infastidisce‚ o rovina l'esperienza agli altri non rimanete in silenzio‚ PARLATE․ Fatevi sentire‚ e gli staff‚ ∗dopo attento giudizio∗ decideranno se meritano di rimanere o no․\n\n Nientaltro da aggiungere․\nDivertiteviǃ"
+  "name": "Soulstorm",
+  "has_logo": true,
+  "has_banner": false,
+  "rules": {
+    "title": "Regolamento Soulstorm",
+    "body": "SOULSTORM LE UNICHE REGOLE CHE CONTANO\n\n 1․ RISPETTA․\nTratta tutti con rispetto‚ punto․\nScherzi e prese in giro tra amici ci stanno‚\nma se qualcuno non ride‚ smetti․\nNon serve rovinare le vibe per dimostrare qualcosa․\n\n 2․ DIVERTITI․\nSiamo qui per quello․\nFai casino‚ balla‚ parla‚ gioca‚ conosci gente vivi il momento․\nOgni volta che entri in Soulstorm‚ lascia fuori i pensieri e libera la tua energia․\n\n 3․ INFORMARE LO STAFF˸\nSe qualcuno infastidisce‚ o rovina l'esperienza agli altri non rimanete in silenzio‚ PARLATE․ Fatevi sentire‚ e gli staff‚ ∗dopo attento giudizio∗ decideranno se meritano di rimanere o no․\n\n Nientaltro da aggiungere․\nDivertiteviǃ"
   },
-  "statistics" : {
-    "instances_created" : 0,
-    "uptime_minutes" : 0,
-    "period_days" : 30,
-    "member_count" : 0
+  "statistics": {
+    "instances_created": 0,
+    "uptime_minutes": 0,
+    "period_days": 30,
+    "member_count": 0
   }
 }
