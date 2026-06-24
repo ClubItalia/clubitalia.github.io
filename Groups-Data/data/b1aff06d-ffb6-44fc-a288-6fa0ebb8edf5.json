@@ -1,15 +1,15 @@
 {
-  "name" : "Anarchy Cats",
-  "has_logo" : false,
-  "has_banner" : false,
-  "rules" : {
-    "title" : "Regolamento Anarchy Cats",
-    "body" : "Anarchy Server No Role"
+  "name": "Anarchy Cats",
+  "has_logo": false,
+  "has_banner": false,
+  "rules": {
+    "title": "Regolamento Anarchy Cats",
+    "body": "Anarchy Server No Role"
   },
-  "statistics" : {
-    "instances_created" : 0,
-    "uptime_minutes" : 0,
-    "period_days" : 30,
-    "member_count" : 0
+  "statistics": {
+    "instances_created": 0,
+    "uptime_minutes": 0,
+    "period_days": 30,
+    "member_count": 0
   }
 }
