@@ -1,15 +1,15 @@
 {
-  "name" : "Il Regno del Parmareggio",
-  "has_logo" : true,
-  "has_banner" : false,
-  "rules" : {
-    "title" : "Regolamento Il Regno del Parmareggio",
-    "body" : "Benvenuto nelle Terre Dorate. Per garantire la pace e il prestigio del regno, ogni suddito è tenuto a rispettare le seguenti leggi:\n\nRispetto 3D: Vietati gesti molesti o avatar offensivi.\n\nGalateo Reale: Non urlare e mantieni un linguaggio educato, specialmente in presenza della Regina.\n\nDivieto di Spam: È vietato pubblicizzare altri regni o infastidire i sudditi con attività moleste.\n\nOrdine e Sicurezza: I Guardiani (Staff) esilieranno chiunque porti lag volontario o tossicità nel Ducato.\n\nProvvedimenti: La tolleranza è limitata. Verrete richiamati ufficialmente a voce una sola volta; alla seconda violazione, scatterà l'espulsione immediata dal gruppo.\n\nNOTA: I WARN IN GAME NON HANNO VALORE!"
+  "name": "Il Regno del Parmareggio",
+  "has_logo": true,
+  "has_banner": false,
+  "rules": {
+    "title": "Regolamento Il Regno del Parmareggio",
+    "body": "Benvenuto nelle Terre Dorate. Per garantire la pace e il prestigio del regno, ogni suddito è tenuto a rispettare le seguenti leggi:\n\nRispetto 3D: Vietati gesti molesti o avatar offensivi.\n\nGalateo Reale: Non urlare e mantieni un linguaggio educato, specialmente in presenza della Regina.\n\nDivieto di Spam: È vietato pubblicizzare altri regni o infastidire i sudditi con attività moleste.\n\nOrdine e Sicurezza: I Guardiani (Staff) esilieranno chiunque porti lag volontario o tossicità nel Ducato.\n\nProvvedimenti: La tolleranza è limitata. Verrete richiamati ufficialmente a voce una sola volta; alla seconda violazione, scatterà l'espulsione immediata dal gruppo.\n\nNOTA: I WARN IN GAME NON HANNO VALORE!"
   },
-  "statistics" : {
-    "instances_created" : 1,
-    "uptime_minutes" : 32,
-    "period_days" : 30,
-    "member_count" : 0
+  "statistics": {
+    "instances_created": 0,
+    "uptime_minutes": 0,
+    "period_days": 30,
+    "member_count": 0
   }
 }
