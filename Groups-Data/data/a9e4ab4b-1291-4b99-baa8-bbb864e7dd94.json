@@ -1,15 +1,15 @@
 {
-  "name" : "Shadow Eclipse",
-  "has_logo" : true,
-  "has_banner" : false,
-  "rules" : {
-    "title" : "Regolamento Shadow Eclipse",
-    "body" : "Regole Ufficiali Shadow Eclipse\n\n1. Regole ufficiali\nRispetta sempre i Termini di Servizio di Discord e VRChat. Le violazioni gravi possono portare al ban.\n\n2. Rispetto reciproco\nNiente insulti, provocazioni, molestie o tossicità. In caso di disagio, contatta lo staff.\n\n3. Contenuti inappropriati\nVietati contenuti NSFW, violenti o offensivi. Evitare anche avatar, suoni, GIF o sticker fuori luogo.\n\n4. Spam e pubblicità\nNo spam, flood o messaggi ripetitivi. Autopromozione vietata senza approvazione staff.\n\n5. Uso dei canali\nScrivere nei canali corretti e mantenere i contenuti in tema.\n\n6. Rispetto staff\nSegui le indicazioni dello staff. Niente contatti inutili in privato.\n\n7. Odio e discriminazione\nVietati razzismo, omofobia, hate speech o qualsiasi forma di discriminazione.\n\n8. Privacy e sicurezza\nNon condividere dati personali propri o altrui. Vietata l’impersonificazione.\n\n9. Comportamento in VRChat\nNiente trolling pesante, molestie, rumori disturbanti o avatar usati per infastidire.\n\n10. Sanzioni\nProgressive in base alla gravità: avviso → mute/timeout → kick → ban. Lo staff può intervenire quando necessario.\n\n11. Registrazioni\nÈ vietato registrare o diffondere clip, video, immagini o audio nelle stanze senza il consenso della persona, salvo solo in circostanze importanti e gravi come prova per segnalazioni fondate.\nUso improprio o provocatorio → ban immediato"
+  "name": "Shadow Eclipse",
+  "has_logo": true,
+  "has_banner": false,
+  "rules": {
+    "title": "Regolamento Shadow Eclipse",
+    "body": "Regole Ufficiali Shadow Eclipse\n\n1. Regole ufficiali\nRispetta sempre i Termini di Servizio di Discord e VRChat. Le violazioni gravi possono portare al ban.\n\n2. Rispetto reciproco\nNiente insulti, provocazioni, molestie o tossicità. In caso di disagio, contatta lo staff.\n\n3. Contenuti inappropriati\nVietati contenuti NSFW, violenti o offensivi. Evitare anche avatar, suoni, GIF o sticker fuori luogo.\n\n4. Spam e pubblicità\nNo spam, flood o messaggi ripetitivi. Autopromozione vietata senza approvazione staff.\n\n5. Uso dei canali\nScrivere nei canali corretti e mantenere i contenuti in tema.\n\n6. Rispetto staff\nSegui le indicazioni dello staff. Niente contatti inutili in privato.\n\n7. Odio e discriminazione\nVietati razzismo, omofobia, hate speech o qualsiasi forma di discriminazione.\n\n8. Privacy e sicurezza\nNon condividere dati personali propri o altrui. Vietata l’impersonificazione.\n\n9. Comportamento in VRChat\nNiente trolling pesante, molestie, rumori disturbanti o avatar usati per infastidire.\n\n10. Sanzioni\nProgressive in base alla gravità: avviso → mute/timeout → kick → ban. Lo staff può intervenire quando necessario.\n\n11. Registrazioni\nÈ vietato registrare o diffondere clip, video, immagini o audio nelle stanze senza il consenso della persona, salvo solo in circostanze importanti e gravi come prova per segnalazioni fondate.\nUso improprio o provocatorio → ban immediato"
   },
-  "statistics" : {
-    "instances_created" : 22,
-    "uptime_minutes" : 7952,
-    "period_days" : 30,
-    "member_count" : 0
+  "statistics": {
+    "instances_created": 0,
+    "uptime_minutes": 0,
+    "period_days": 30,
+    "member_count": 0
   }
 }
