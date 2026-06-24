@@ -291,6 +291,6 @@
     }
   },
   "trophies" : {
-    "Toxi10" : [ "TEST" ]
+    "TEST" : [ "Toxi10" ]
   }
 }
