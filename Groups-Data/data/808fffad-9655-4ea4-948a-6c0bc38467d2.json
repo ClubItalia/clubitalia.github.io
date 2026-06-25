@@ -1,15 +1,15 @@
 {
-  "name" : "First Class",
-  "has_logo" : true,
-  "has_banner" : false,
-  "rules" : {
-    "title" : "Regolamento First Class",
-    "body" : "✦ Codice di First Class ✦\nI. Rispetto della Casata\n\nOgni membro è tenuto a trattare gli altri con rispetto, dignità e cortesia. Le dispute si risolvono con maturità, non con clamore.\n\nII. Decoro e Compostezza\n\nComportamenti volgari, provocazioni inutili e atteggiamenti che ledono l'immagine del gruppo non sono degni di First Class.\n\nIII. Lealtà tra Membri\n\nLa fiducia è il fondamento della nostra cerchia. Tradimenti, inganni o azioni contro gli interessi del gruppo non saranno tollerati.\n\nIV. Qualità sopra Quantità\n\nNon cerchiamo numeri. Ogni membro rappresenta il prestigio di First Class e ne custodisce la reputazione.\n\nV. Discrezione\n\nCiò che appartiene a questa cerchia rimane all'interno di essa. La riservatezza è segno di nobiltà.\n\nVI. Presenza e Partecipazione\n\nUn membro di First Class non è una semplice figura decorativa. La partecipazione alla vita del gruppo è sempre apprezzata.\n\nVII. Accoglienza degli Ospiti\n\nGli ospiti sono benvenuti fintanto che mostrano rispetto verso la comunità e i suoi membri.\n\nVIII. Nessuna Superiorità, Solo Eccellenza\n\nL'eleganza non consiste nel sentirsi superiori agli altri, ma nel mantenere standard più elevati.\n\nIX. Onore del Nome\n\nOgni azione compiuta sotto il vessillo di First Class riflette sull'intera comunità.\n\nX. L'Ultima Parola\n\nL'amministrazione custodisce l'ordine e l'armonia della Casata. Le sue decisioni sono definitive.\n\nXI. Decoro delle Apparenze\n\nOgni membro è tenuto a scegliere avatar che rispettino l'armonia e la fruibilità degli ambienti condivisi. Avatar dotati di effetti invasivi, elementi eccessivamente luminosi, suoni molesti o funzionalità atte a compromettere l'esperienza altrui non sono degni della Casata e potranno essere soggetti a provvedimenti.\n\nXII. Giustizia e Disciplina\n\nL'ordine di First Class viene p"
+  "name": "First Class",
+  "has_logo": true,
+  "has_banner": false,
+  "rules": {
+    "title": "Regolamento First Class",
+    "body": "✦ Codice di First Class ✦\nI. Rispetto della Casata\n\nOgni membro è tenuto a trattare gli altri con rispetto, dignità e cortesia. Le dispute si risolvono con maturità, non con clamore.\n\nII. Decoro e Compostezza\n\nComportamenti volgari, provocazioni inutili e atteggiamenti che ledono l'immagine del gruppo non sono degni di First Class.\n\nIII. Lealtà tra Membri\n\nLa fiducia è il fondamento della nostra cerchia. Tradimenti, inganni o azioni contro gli interessi del gruppo non saranno tollerati.\n\nIV. Qualità sopra Quantità\n\nNon cerchiamo numeri. Ogni membro rappresenta il prestigio di First Class e ne custodisce la reputazione.\n\nV. Discrezione\n\nCiò che appartiene a questa cerchia rimane all'interno di essa. La riservatezza è segno di nobiltà.\n\nVI. Presenza e Partecipazione\n\nUn membro di First Class non è una semplice figura decorativa. La partecipazione alla vita del gruppo è sempre apprezzata.\n\nVII. Accoglienza degli Ospiti\n\nGli ospiti sono benvenuti fintanto che mostrano rispetto verso la comunità e i suoi membri.\n\nVIII. Nessuna Superiorità, Solo Eccellenza\n\nL'eleganza non consiste nel sentirsi superiori agli altri, ma nel mantenere standard più elevati.\n\nIX. Onore del Nome\n\nOgni azione compiuta sotto il vessillo di First Class riflette sull'intera comunità.\n\nX. L'Ultima Parola\n\nL'amministrazione custodisce l'ordine e l'armonia della Casata. Le sue decisioni sono definitive.\n\nXI. Decoro delle Apparenze\n\nOgni membro è tenuto a scegliere avatar che rispettino l'armonia e la fruibilità degli ambienti condivisi. Avatar dotati di effetti invasivi, elementi eccessivamente luminosi, suoni molesti o funzionalità atte a compromettere l'esperienza altrui non sono degni della Casata e potranno essere soggetti a provvedimenti.\n\nXII. Giustizia e Disciplina\n\nL'ordine di First Class viene p"
   },
-  "statistics" : {
-    "instances_created" : 8,
-    "uptime_minutes" : 3687,
-    "period_days" : 30,
-    "member_count" : 0
+  "statistics": {
+    "instances_created": 8,
+    "uptime_minutes": 3687,
+    "period_days": 30,
+    "member_count": 0
   }
 }
