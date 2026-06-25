@@ -1,15 +1,15 @@
 {
-  "name" : "Mittle Fanclub",
-  "has_logo" : true,
-  "has_banner" : false,
-  "rules" : {
-    "title" : "Regolamento L'Impero",
-    "body" : "LE LEGGI IMPERIALI\n\n|•|====================================|•|\n\n1․ Onore Imperiale\nOgni cittadino dellImpero deve mantenere rispetto e disciplina verso membri‚ ufficiali e autorità imperiali․\n\n2․ Fedeltà alla Corona\nLa lealtà verso la Famiglia Imperiale Savoia e verso lImpero viene prima di ogni interesse personale․\n\n3․ Ordine Pubblico\nConflitti inutili‚ provocazioni e comportamenti ostili disturbano la stabilità imperiale e non saranno tollerati․\n\n4․ Decoro Imperiale\nMantenete un comportamento maturo e consono agli ideali di gloria‚ eleganza e prestigio dellImpero․\n\n5․ Protezione dei Cittadini\nLa diffusione di informazioni personali o contenuti dannosi verso altri cittadini imperiali è severamente vietata․\n\n6․ Propaganda Esterna\nPubblicità‚ spam e promozioni non autorizzate sono considerate interferenze contro lordine dellImpero․\n\n7․ Unità dellImpero\nOgni provincia‚ colonia e territorio imperiale deve essere rispettato come parte integrante della grandezza italiana․\n\n8․ Rispetto della Gerarchia\nGli ordini dello staff e delle autorità imperiali devono essere ascoltati e rispettati senza creare disordini․\n\n9․ Preservazione della Gloria\nOgni membro rappresenta il prestigio dellImpero dItalia․ Agite sempre con dignità‚ controllo e responsabilità․\n\n10․ Servizio alla Patria\nCon lealtà‚ sacrificio e disciplina‚ ogni cittadino contribuisce alla forza e al futuro dellImpero․\n\nFirmato : Imperatore D’Italia | Mittle\n\n|•|====================================|•|"
+  "name": "Mittle Fanclub",
+  "has_logo": true,
+  "has_banner": false,
+  "rules": {
+    "title": "Regolamento L'Impero",
+    "body": "LE LEGGI IMPERIALI\n\n|•|====================================|•|\n\n1․ Onore Imperiale\nOgni cittadino dellImpero deve mantenere rispetto e disciplina verso membri‚ ufficiali e autorità imperiali․\n\n2․ Fedeltà alla Corona\nLa lealtà verso la Famiglia Imperiale Savoia e verso lImpero viene prima di ogni interesse personale․\n\n3․ Ordine Pubblico\nConflitti inutili‚ provocazioni e comportamenti ostili disturbano la stabilità imperiale e non saranno tollerati․\n\n4․ Decoro Imperiale\nMantenete un comportamento maturo e consono agli ideali di gloria‚ eleganza e prestigio dellImpero․\n\n5․ Protezione dei Cittadini\nLa diffusione di informazioni personali o contenuti dannosi verso altri cittadini imperiali è severamente vietata․\n\n6․ Propaganda Esterna\nPubblicità‚ spam e promozioni non autorizzate sono considerate interferenze contro lordine dellImpero․\n\n7․ Unità dellImpero\nOgni provincia‚ colonia e territorio imperiale deve essere rispettato come parte integrante della grandezza italiana․\n\n8․ Rispetto della Gerarchia\nGli ordini dello staff e delle autorità imperiali devono essere ascoltati e rispettati senza creare disordini․\n\n9․ Preservazione della Gloria\nOgni membro rappresenta il prestigio dellImpero dItalia․ Agite sempre con dignità‚ controllo e responsabilità․\n\n10․ Servizio alla Patria\nCon lealtà‚ sacrificio e disciplina‚ ogni cittadino contribuisce alla forza e al futuro dellImpero․\n\nFirmato : Imperatore D’Italia | Mittle\n\n|•|====================================|•|"
   },
-  "statistics" : {
-    "instances_created" : 5,
-    "uptime_minutes" : 211,
-    "period_days" : 30,
-    "member_count" : 0
+  "statistics": {
+    "instances_created": 5,
+    "uptime_minutes": 211,
+    "period_days": 30,
+    "member_count": 0
   }
 }
