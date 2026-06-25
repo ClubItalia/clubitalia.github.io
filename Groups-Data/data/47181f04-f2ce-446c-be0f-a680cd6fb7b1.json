@@ -1,15 +1,15 @@
 {
-  "name": "fichissimi",
-  "has_logo": true,
-  "has_banner": false,
-  "rules": {
-    "title": "Regolamento fichissimi",
-    "body": "ANARCHIA, non risolverò i vostri problemi\n\nAgisco solo in caso di avatar CRASHER"
+  "name" : "fichissimi",
+  "has_logo" : true,
+  "has_banner" : false,
+  "rules" : {
+    "title" : "Regolamento fichissimi",
+    "body" : "ANARCHIA, non risolverò i vostri problemi\n\nAgisco solo in caso di avatar CRASHER"
   },
-  "statistics": {
-    "instances_created": 0,
-    "uptime_minutes": 0,
-    "period_days": 30,
-    "member_count": 0
+  "statistics" : {
+    "instances_created" : 2,
+    "uptime_minutes" : 76,
+    "period_days" : 30,
+    "member_count" : 0
   }
 }
