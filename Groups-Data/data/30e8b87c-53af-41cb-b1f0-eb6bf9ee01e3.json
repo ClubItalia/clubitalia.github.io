@@ -1,15 +1,15 @@
 {
-  "name" : "Favij TV VR",
-  "has_logo" : true,
-  "has_banner" : false,
-  "rules" : {
-    "title" : "Regolamento Favij TV VR",
-    "body" : "1․ Non chiedere di essere un moderatore‚ solo quelli che decide l'owner saranno moderatori\n\n2․ Non insistere nel chiedere di entrare nel gruppo‚ con il tempo e se farai il bravo entrerai․\n\n3․ Non disturbare le persone （Cheat‚ Bugs‚ Avatar Enormi‚ ․․․）\n\n4․ Rispettare le decisioni dello staff （Ban‚ ammunizzioni․․․）\n\n5․ Quando vengono organizzati degli eventi o giochi di gruppo‚ non è a scopo competitivo ma per diversi insieme ˸-）\n\n6․ Ovviamente chi viene bannato （eccetto quelli che vengono bannati per errore） non ritorna più nel gruppo per poter avere una community più divertente possibile․\nEd chi viene bannato e tenta di rientrare nel gruppo da un account secondo account sarà nuovamente bannato con anche una segnalazione in VRCHAT․\n\nGrazie per la collaborazione e buon divertimento insieme al nostro amato FAVIJ"
+  "name": "Favij TV VR",
+  "has_logo": true,
+  "has_banner": false,
+  "rules": {
+    "title": "Regolamento Favij TV VR",
+    "body": "1․ Non chiedere di essere un moderatore‚ solo quelli che decide l'owner saranno moderatori\n\n2․ Non insistere nel chiedere di entrare nel gruppo‚ con il tempo e se farai il bravo entrerai․\n\n3․ Non disturbare le persone （Cheat‚ Bugs‚ Avatar Enormi‚ ․․․）\n\n4․ Rispettare le decisioni dello staff （Ban‚ ammunizzioni․․․）\n\n5․ Quando vengono organizzati degli eventi o giochi di gruppo‚ non è a scopo competitivo ma per diversi insieme ˸-）\n\n6․ Ovviamente chi viene bannato （eccetto quelli che vengono bannati per errore） non ritorna più nel gruppo per poter avere una community più divertente possibile․\nEd chi viene bannato e tenta di rientrare nel gruppo da un account secondo account sarà nuovamente bannato con anche una segnalazione in VRCHAT․\n\nGrazie per la collaborazione e buon divertimento insieme al nostro amato FAVIJ"
   },
-  "statistics" : {
-    "instances_created" : 0,
-    "uptime_minutes" : 0,
-    "period_days" : 30,
-    "member_count" : 0
+  "statistics": {
+    "instances_created": 0,
+    "uptime_minutes": 0,
+    "period_days": 30,
+    "member_count": 0
   }
 }
