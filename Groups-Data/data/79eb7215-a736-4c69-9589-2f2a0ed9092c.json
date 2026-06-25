@@ -1,12 +1,12 @@
 {
-  "name" : "COLELLA'S MAFIA",
-  "has_logo" : false,
-  "has_banner" : false,
-  "rules" : null,
-  "statistics" : {
-    "instances_created" : 3,
-    "uptime_minutes" : 56,
-    "period_days" : 30,
-    "member_count" : 0
+  "name": "COLELLA'S MAFIA",
+  "has_logo": false,
+  "has_banner": false,
+  "rules": null,
+  "statistics": {
+    "instances_created": 3,
+    "uptime_minutes": 56,
+    "period_days": 30,
+    "member_count": 0
   }
 }
