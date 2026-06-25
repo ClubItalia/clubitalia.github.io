@@ -1,15 +1,15 @@
 {
-  "name" : "Pokémon Italia",
-  "has_logo" : true,
-  "has_banner" : false,
-  "rules" : {
-    "title" : "Regolamento Pokémon Italia",
-    "body" : "Rispetto per tutti quanti nella community\n\nNo drama⁄litigi (parlatene in privato oppure sarà stabilito un warn, al terzo warn ci sarà un kick)\n\nNo avatar crash (se usati comporterà al ban istantaneo dal gruppo)\n\nNo avatar 18+ (questo vale anche per avatar suggestive)\n\nVietato bloccare gli admin nelle istanze (questo comporterà al kick immediato)\n\nSe le regole non verranno rispettate‚ saranno prese le giuste misure, se volete segnalare qualsiasi anomalia o comportamenti scorretti, rivolgetevi personalmente all'owner del gruppo"
+  "name": "Pokémon Italia",
+  "has_logo": true,
+  "has_banner": false,
+  "rules": {
+    "title": "Regolamento Pokémon Italia",
+    "body": "Rispetto per tutti quanti nella community\n\nNo drama⁄litigi (parlatene in privato oppure sarà stabilito un warn, al terzo warn ci sarà un kick)\n\nNo avatar crash (se usati comporterà al ban istantaneo dal gruppo)\n\nNo avatar 18+ (questo vale anche per avatar suggestive)\n\nVietato bloccare gli admin nelle istanze (questo comporterà al kick immediato)\n\nSe le regole non verranno rispettate‚ saranno prese le giuste misure, se volete segnalare qualsiasi anomalia o comportamenti scorretti, rivolgetevi personalmente all'owner del gruppo"
   },
-  "statistics" : {
-    "instances_created" : 7,
-    "uptime_minutes" : 333,
-    "period_days" : 30,
-    "member_count" : 0
+  "statistics": {
+    "instances_created": 7,
+    "uptime_minutes": 333,
+    "period_days": 30,
+    "member_count": 0
   }
 }
