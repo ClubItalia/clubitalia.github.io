@@ -1,15 +1,15 @@
 {
-  "name" : "Italian_Paradise Official",
-  "has_logo" : true,
-  "has_banner" : false,
-  "rules" : {
-    "title" : "Regolamento Italian_Paradise Official",
-    "body" : "REGOLAMENTO DEL SERVER\nRispetto per lo Staff: Non disturbare lo staff per questioni futili; contattalo solo in caso di effettiva necessità.\n\n1)Soundboard e Disturbo: È vietato disturbare gli altri utenti con l'uso di soundboard fastidiose o rumori molesti.\n\n2)Contenuti NSFW / Espliciti:\nÈ vietato l'uso di nomi o avatar contenenti materiale NSFW   (pornografico)\nEccezione Avatar: Sono consentiti avatar SFW (Safe For Work) privi di luci particolari (che potrebbero dare l'illusione di essere NSFW pur non essendolo).\n\n3)Autorità e Sanzioni:\nLo staff ha l'ultima parola. Se un moderatore vi chiede di interrompere un comportamento, fatelo immediatamente.\n\nGerarchia sanzioni: Warn, Mute, Kick, Ban (in base alla gravità).\n\nBan: Nella maggior parte dei casi è definitivo, specialmente per incitamento all'odio (hate speech), contenuti NSFW o drama gravi.\n\nAppelli: Se ritenete di essere stati puniti ingiustamente, potete aprire un ticket privato per fare appello.\n\n4)Tolleranza Zero: minacce, molestie e ogni forma di harassment comporteranno l'allontanamento immediato.\n\n5)Età: Il server è aperto a utenti dai 13 anni in su (13+ fino a 18+).\n\n6)Sono severamente vietati insulti, offese, razzismo, sessismo e omofobia"
+  "name": "Italian_Paradise Official",
+  "has_logo": true,
+  "has_banner": false,
+  "rules": {
+    "title": "Regolamento Italian_Paradise Official",
+    "body": "REGOLAMENTO DEL SERVER\nRispetto per lo Staff: Non disturbare lo staff per questioni futili; contattalo solo in caso di effettiva necessità.\n\n1)Soundboard e Disturbo: È vietato disturbare gli altri utenti con l'uso di soundboard fastidiose o rumori molesti.\n\n2)Contenuti NSFW / Espliciti:\nÈ vietato l'uso di nomi o avatar contenenti materiale NSFW   (pornografico)\nEccezione Avatar: Sono consentiti avatar SFW (Safe For Work) privi di luci particolari (che potrebbero dare l'illusione di essere NSFW pur non essendolo).\n\n3)Autorità e Sanzioni:\nLo staff ha l'ultima parola. Se un moderatore vi chiede di interrompere un comportamento, fatelo immediatamente.\n\nGerarchia sanzioni: Warn, Mute, Kick, Ban (in base alla gravità).\n\nBan: Nella maggior parte dei casi è definitivo, specialmente per incitamento all'odio (hate speech), contenuti NSFW o drama gravi.\n\nAppelli: Se ritenete di essere stati puniti ingiustamente, potete aprire un ticket privato per fare appello.\n\n4)Tolleranza Zero: minacce, molestie e ogni forma di harassment comporteranno l'allontanamento immediato.\n\n5)Età: Il server è aperto a utenti dai 13 anni in su (13+ fino a 18+).\n\n6)Sono severamente vietati insulti, offese, razzismo, sessismo e omofobia"
   },
-  "statistics" : {
-    "instances_created" : 0,
-    "uptime_minutes" : 0,
-    "period_days" : 30,
-    "member_count" : 0
+  "statistics": {
+    "instances_created": 0,
+    "uptime_minutes": 0,
+    "period_days": 30,
+    "member_count": 0
   }
 }
