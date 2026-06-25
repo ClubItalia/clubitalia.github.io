@@ -1,15 +1,15 @@
 {
-  "name" : "Eternal Lag",
-  "has_logo" : true,
-  "has_banner" : false,
-  "rules" : {
-    "title" : "Regolamento Eternal Lag",
-    "body" : "**REGOLAMENTO ETERNAL LAG**\n\nBenvenuto nel gruppo! Per garantire un ambiente piacevole, rispettoso e divertente per tutti, è necessario attenersi alle seguenti regole:\n\n---\n\n**1. Rispetto reciproco**\nTratta tutti i membri con rispetto. Offese, insulti, discriminazioni o atteggiamenti tossici non sono tollerati.\n\n**2. Niente drama**\nÈ vietato creare, alimentare o diffondere drama. Problemi personali vanno risolti in privato o con un moderatore.\n\n**3. Vietato fare i simp**\nComportamenti insistenti, invadenti o eccessivamente adulanti verso altri utenti (simping) non sono ammessi.\n\n**4. Contenuti appropriati**\nEvita contenuti NSFW, offensivi o che possano mettere a disagio gli altri membri, a meno che non sia chiaramente consentito in contesti specifici.\n\n**5. Rispetta la privacy**\nNon condividere informazioni personali tue o di altri senza consenso.\n\n**6. Niente spam**\nEvita messaggi ripetitivi, pubblicità non autorizzata o contenuti fuori tema.\n\n**7. Segui le indicazioni dello staff**\nModeratori e amministratori hanno l’ultima parola. Le loro decisioni vanno rispettate.\n\n**8. Usa il buon senso**\nSe un comportamento potrebbe risultare fastidioso o inappropriato, probabilmente lo è: evita.\n\n---\n\n**Sanzioni**\nLa violazione delle regole può comportare richiami, mute, kick o ban, a seconda della gravità.\n\n---\n\n**Obiettivo del gruppo**\nDivertirsi, socializzare e creare un ambiente positivo per tutti. ✨\n\n---"
+  "name": "Eternal Lag",
+  "has_logo": true,
+  "has_banner": false,
+  "rules": {
+    "title": "Regolamento Eternal Lag",
+    "body": "**REGOLAMENTO ETERNAL LAG**\n\nBenvenuto nel gruppo! Per garantire un ambiente piacevole, rispettoso e divertente per tutti, è necessario attenersi alle seguenti regole:\n\n---\n\n**1. Rispetto reciproco**\nTratta tutti i membri con rispetto. Offese, insulti, discriminazioni o atteggiamenti tossici non sono tollerati.\n\n**2. Niente drama**\nÈ vietato creare, alimentare o diffondere drama. Problemi personali vanno risolti in privato o con un moderatore.\n\n**3. Vietato fare i simp**\nComportamenti insistenti, invadenti o eccessivamente adulanti verso altri utenti (simping) non sono ammessi.\n\n**4. Contenuti appropriati**\nEvita contenuti NSFW, offensivi o che possano mettere a disagio gli altri membri, a meno che non sia chiaramente consentito in contesti specifici.\n\n**5. Rispetta la privacy**\nNon condividere informazioni personali tue o di altri senza consenso.\n\n**6. Niente spam**\nEvita messaggi ripetitivi, pubblicità non autorizzata o contenuti fuori tema.\n\n**7. Segui le indicazioni dello staff**\nModeratori e amministratori hanno l’ultima parola. Le loro decisioni vanno rispettate.\n\n**8. Usa il buon senso**\nSe un comportamento potrebbe risultare fastidioso o inappropriato, probabilmente lo è: evita.\n\n---\n\n**Sanzioni**\nLa violazione delle regole può comportare richiami, mute, kick o ban, a seconda della gravità.\n\n---\n\n**Obiettivo del gruppo**\nDivertirsi, socializzare e creare un ambiente positivo per tutti. ✨\n\n---"
   },
-  "statistics" : {
-    "instances_created" : 1,
-    "uptime_minutes" : 20,
-    "period_days" : 30,
-    "member_count" : 0
+  "statistics": {
+    "instances_created": 1,
+    "uptime_minutes": 20,
+    "period_days": 30,
+    "member_count": 0
   }
 }
