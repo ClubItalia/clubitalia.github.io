@@ -1,15 +1,15 @@
 {
-  "name": "Italia Virtual Reality Gaming",
-  "has_logo": true,
-  "has_banner": false,
-  "rules": {
-    "title": "Regolamento Italia Virtual Reality Gaming",
-    "body": "Seguiranno‚ qua sotto‚ le regole da rispettare in modo che ogni membro del gruppo abbia una bell'esperienza con tutti gli altri membri․\n\n1-NSFW\nAvatar NSFW o qualsiasi cosa sia NSFW è vietata all'interno delle nostre Istances․\n\n2-Lag⁄Crash\nQualsiasi cosa punti a far laggare o crashare una nostra Instance è Assolutamente vietata\n\n3-N-word o F-word\nLe paroline proibite si possono dire solo per scherzo‚ se l'insulto è puntato ad una persona‚ non viene accettato‚ anche lo spam di esse è vietato․\n\n4- Divertiteviǃǃ"
+  "name" : "Italia Virtual Reality Gaming",
+  "has_logo" : true,
+  "has_banner" : false,
+  "rules" : {
+    "title" : "Regolamento Italia Virtual Reality Gaming",
+    "body" : "Seguiranno‚ qua sotto‚ le regole da rispettare in modo che ogni membro del gruppo abbia una bell'esperienza con tutti gli altri membri․\n\n1-NSFW\nAvatar NSFW o qualsiasi cosa sia NSFW è vietata all'interno delle nostre Istances․\n\n2-Lag⁄Crash\nQualsiasi cosa punti a far laggare o crashare una nostra Instance è Assolutamente vietata\n\n3-N-word o F-word\nLe paroline proibite si possono dire solo per scherzo‚ se l'insulto è puntato ad una persona‚ non viene accettato‚ anche lo spam di esse è vietato․\n\n4- Divertiteviǃǃ"
   },
-  "statistics": {
-    "instances_created": 0,
-    "uptime_minutes": 0,
-    "period_days": 30,
-    "member_count": 0
+  "statistics" : {
+    "instances_created" : 0,
+    "uptime_minutes" : 0,
+    "period_days" : 30,
+    "member_count" : 0
   }
 }
