@@ -1,15 +1,15 @@
 {
-  "name": "SILVESTRI I COGLIONI DESTRI",
-  "has_logo": true,
-  "has_banner": false,
-  "rules": {
-    "title": "Regolamento SILVESTRI I COGLIONI DESTRI",
-    "body": "SII UN SILVESTRO COL COGLIONE DESTRO\n\nQuesta mappa è una giungla... Nessuno verrà a salvarti. Tutto è nelle tue mani e dipende da te. Non ci sono regole, è un'anarchia. Se qualcuno caga il cazzo, lo blocchi. Gli staffer si occuperanno SOLO ED ESCLUSIVAMENTE di questioni di vitale importanza. \n\nStay Safe 💪🏻"
+  "name" : "SILVESTRI I COGLIONI DESTRI",
+  "has_logo" : true,
+  "has_banner" : false,
+  "rules" : {
+    "title" : "Regolamento SILVESTRI I COGLIONI DESTRI",
+    "body" : "SII UN SILVESTRO COL COGLIONE DESTRO\n\nQuesta mappa è una giungla... Nessuno verrà a salvarti. Tutto è nelle tue mani e dipende da te. Non ci sono regole, è un'anarchia. Se qualcuno caga il cazzo, lo blocchi. Gli staffer si occuperanno SOLO ED ESCLUSIVAMENTE di questioni di vitale importanza. \n\nStay Safe 💪🏻"
   },
-  "statistics": {
-    "instances_created": 1,
-    "uptime_minutes": 67,
-    "period_days": 30,
-    "member_count": 0
+  "statistics" : {
+    "instances_created" : 1,
+    "uptime_minutes" : 67,
+    "period_days" : 30,
+    "member_count" : 0
   }
 }
