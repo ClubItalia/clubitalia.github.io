@@ -1,15 +1,15 @@
 {
-  "name": "Tegridy Farm Games Ita",
-  "has_logo": true,
-  "has_banner": false,
-  "rules": {
-    "title": "Regolamento l'IMPERO VILTRUMITA",
-    "body": "1 Età minima: 14 anni.\n\n2 Rispetta i ToS di Discord e VRChat.\nQuindi niente avatar o contenuti NSFW in pubblico, niente mancanze di rispetto, ecc.\n\n3 Niente spam o pubblicità di altre community.\n\n4 Rispetta lo staff.\nSiamo qui per tenere tutto in ordine, lasciateci lavorare. (Per riconoscerci abbiamo un banner sopra al nome che ci distingue)\n\n5 Non mettere a disagio gli altri, verbalmente o tramite avatar o soundboard (avatar enormi o che creano effetti disorientanti e fastidiosi.\nSe esageri vieni richiamato, se continui si passa a provvedimenti seri.\n\n6 Zero hate o tossicità.\nQui si viene per stare bene, non per creare drammi.\n\n7 Per Discord: usa i canali con criterio.\nOgni cosa ha il suo posto, usatela!"
+  "name" : "Tegridy Farm Games Ita",
+  "has_logo" : true,
+  "has_banner" : false,
+  "rules" : {
+    "title" : "Regolamento l'IMPERO VILTRUMITA",
+    "body" : "1 Età minima: 14 anni.\n\n2 Rispetta i ToS di Discord e VRChat.\nQuindi niente avatar o contenuti NSFW in pubblico, niente mancanze di rispetto, ecc.\n\n3 Niente spam o pubblicità di altre community.\n\n4 Rispetta lo staff.\nSiamo qui per tenere tutto in ordine, lasciateci lavorare. (Per riconoscerci abbiamo un banner sopra al nome che ci distingue)\n\n5 Non mettere a disagio gli altri, verbalmente o tramite avatar o soundboard (avatar enormi o che creano effetti disorientanti e fastidiosi.\nSe esageri vieni richiamato, se continui si passa a provvedimenti seri.\n\n6 Zero hate o tossicità.\nQui si viene per stare bene, non per creare drammi.\n\n7 Per Discord: usa i canali con criterio.\nOgni cosa ha il suo posto, usatela!"
   },
-  "statistics": {
-    "instances_created": 0,
-    "uptime_minutes": 0,
-    "period_days": 30,
-    "member_count": 0
+  "statistics" : {
+    "instances_created" : 0,
+    "uptime_minutes" : 0,
+    "period_days" : 30,
+    "member_count" : 0
   }
 }
