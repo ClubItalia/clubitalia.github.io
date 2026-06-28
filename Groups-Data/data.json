@@ -70,7 +70,7 @@
       "id" : "grp_e4e6d631-55a6-4873-b353-054830de9756",
       "hide_staff" : false,
       "admin" : [ "bo12345656790", "c4t_boy", "LEG0SHI23", "Ray289" ],
-      "staff" : [ "00cupcake․lily00 d384", "Bea 8dcb", "BeaAIM", "kira_5010", "QW_HESTIA_CHAN", "Raffaele11", "sono pirla", "Tony Metrolux", "Vex_G_2" ]
+      "staff" : [ "Bea 8dcb", "BeaAIM", "kira_5010", "QW_HESTIA_CHAN", "Raffaele11", "sono pirla", "Tony Metrolux", "Vex_G_2" ]
     },
     "f02b4c37-82c0-47eb-b25a-2cb021631d72" : {
       "name" : "Eternal Lag",
@@ -156,6 +156,13 @@
       "admin" : [ ],
       "staff" : [ ]
     },
+    "c286c452-1c36-40e3-bee8-977e9a9222bc" : {
+      "name" : "MAELSTROM",
+      "id" : "grp_50982855-1b9f-40b5-bb5e-dd3a041af6ba",
+      "hide_staff" : false,
+      "admin" : [ "Devilmen178", "Fasci", "Gianpippo_Banan", "-GOLDSHIP-", "_viper20_" ],
+      "staff" : [ "ignzio_", "inquisitore739", "LORD BREAD 76", "Velkayra", "YΛЯIMӨV" ]
+    },
     "65df6475-9028-43b0-ba63-6d0edcb0118a" : {
       "name" : "Mittle Fanclub",
       "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
@@ -169,13 +176,6 @@
       "hide_staff" : false,
       "admin" : [ "GohanTheRealOne", "Ray289" ],
       "staff" : [ "bo12345656790", "Raffaele11" ]
-    },
-    "c286c452-1c36-40e3-bee8-977e9a9222bc" : {
-      "name" : "New Group 001",
-      "id" : "grp_50982855-1b9f-40b5-bb5e-dd3a041af6ba",
-      "hide_staff" : false,
-      "admin" : [ "Devilmen178", "Fasci", "Gianpippo_Banan", "-GOLDSHIP-", "_viper20_" ],
-      "staff" : [ "ignzio_", "inquisitore739", "LORD BREAD 76", "Velkayra", "YΛЯIMӨV" ]
     },
     "2363ea7e-2a31-4fc3-8e37-ee4aba716681" : {
       "name" : "Nightfall Circle",
