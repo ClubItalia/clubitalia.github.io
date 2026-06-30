@@ -244,7 +244,7 @@
       "name" : "The Tower",
       "id" : "grp_99ad0216-4296-48c4-b1dd-9a20e1ba4668",
       "hide_staff" : false,
-      "admin" : [ "NinaV2" ],
+      "admin" : [ "NinaV2", "xCommando" ],
       "staff" : [ ]
     },
     "1acf1ed8-6a76-43e9-8908-6f3d1a501d1e" : {
