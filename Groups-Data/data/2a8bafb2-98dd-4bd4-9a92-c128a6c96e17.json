@@ -1,5 +1,5 @@
 {
-  "name" : "ChillZone",
+  "name" : "Hydra Resort",
   "has_logo" : true,
   "has_banner" : true,
   "rules" : {
@@ -8,7 +8,7 @@
   },
   "statistics" : {
     "instances_created" : 60,
-    "uptime_minutes" : 20554,
+    "uptime_minutes" : 20937,
     "period_days" : 30,
     "member_count" : 0
   }
