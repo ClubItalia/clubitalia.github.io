@@ -44,13 +44,6 @@
       "admin" : [ "Onyo_o" ],
       "staff" : [ "lunatico100", "mäggïe", "ʀզʐɛʟ", "Ƭαϝϝყ" ]
     },
-    "2a8bafb2-98dd-4bd4-9a92-c128a6c96e17" : {
-      "name" : "ChillZone",
-      "id" : "grp_d0536686-2fcd-41f7-b4e2-c5abcf0ce4fc",
-      "hide_staff" : false,
-      "admin" : [ "_Pablito__", "Renzo Hex 07" ],
-      "staff" : [ "ciaon2472 edb2", "Gabriel_ITA7 8f4c", "Salsiccia84 19e2", "ギガバイト b9b2" ]
-    },
     "18525eca-70a7-479e-9e0a-68a99950e339" : {
       "name" : "Club Italia",
       "id" : "grp_4e511c34-26f8-46ee-a472-c673630bc803",
@@ -70,7 +63,7 @@
       "id" : "grp_e4e6d631-55a6-4873-b353-054830de9756",
       "hide_staff" : false,
       "admin" : [ "bo12345656790", "c4t_boy", "LEG0SHI23", "Ray289" ],
-      "staff" : [ "Bea 8dcb", "BeaAIM", "kira_5010", "QW_HESTIA_CHAN", "sono pirla", "Tony Metrolux", "Vex_G_2" ]
+      "staff" : [ "Bea 8dcb", "BeaAIM", "kira_5010", "Lunetta__°", "sono pirla", "Tony Metrolux", "Vex_G_2" ]
     },
     "f02b4c37-82c0-47eb-b25a-2cb021631d72" : {
       "name" : "Eternal Lag",
@@ -106,6 +99,13 @@
       "hide_staff" : false,
       "admin" : [ "Tizio_Del_Palco" ],
       "staff" : [ ]
+    },
+    "2a8bafb2-98dd-4bd4-9a92-c128a6c96e17" : {
+      "name" : "Hydra Resort",
+      "id" : "grp_d0536686-2fcd-41f7-b4e2-c5abcf0ce4fc",
+      "hide_staff" : false,
+      "admin" : [ "Renzo Hex 07" ],
+      "staff" : [ "ciaon2472 edb2", "Gabriel_ITA7 8f4c", "Salsiccia84 19e2", "ギガバイト b9b2" ]
     },
     "32520897-6c49-472c-82a5-b07695047c5f" : {
       "name" : "Il Regno del Parmareggio",
@@ -217,7 +217,7 @@
       "id" : "grp_10f98d7f-db39-4229-9e16-945458a99709",
       "hide_staff" : false,
       "admin" : [ "antidopamina", "JustªShadow", "༒R U N A༒", "YΛЯIMӨV", "z4h0r1" ],
-      "staff" : [ "Asthemirea", "Cosimo97", "dilandog66", "KarmaNemesis", "Kenny_San", "Ketcore", "killobeatbox adce", "Mykky_Kky", "Pilota kamikaze", "ఌΔLΩNΞఌ" ]
+      "staff" : [ "Asthemirea", "Cosimo97", "KarmaNemesis", "Kenny_San", "Ketcore", "killobeatbox adce", "Mykky_Kky", "Pilota kamikaze", "ŠĪR dïlãndøg66", "ఌΔLΩNΞఌ" ]
     },
     "91abb22d-d75e-4b30-8763-1ecf7c135a3b" : {
       "name" : "SILVESTRI I COGLIONI DESTRI",
