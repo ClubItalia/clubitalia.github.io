@@ -163,13 +163,6 @@
       "admin" : [ "Devilmen178", "Fasci", "Gianpippo_Banan", "-GOLDSHIP-", "_viper20_" ],
       "staff" : [ "ignzio_", "inquisitore739", "LORD BREAD 76", "Velkayra", "YΛЯIMӨV" ]
     },
-    "65df6475-9028-43b0-ba63-6d0edcb0118a" : {
-      "name" : "Mittle Fanclub",
-      "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
-      "hide_staff" : true,
-      "admin" : [ "Mıþþłę", "_Pablito__" ],
-      "staff" : [ "° H I Y O K O °", "Nikyty", "°PuraVR°" ]
-    },
     "dd6e49d4-1ab4-442f-ba93-f18dc335ef96" : {
       "name" : "NerdITALIA",
       "id" : "grp_3fc86287-b9db-42a1-9e5a-c0da01203ef3",
@@ -183,6 +176,13 @@
       "hide_staff" : false,
       "admin" : [ "BlackReiss", "lamaerrante", "xVito" ],
       "staff" : [ ]
+    },
+    "65df6475-9028-43b0-ba63-6d0edcb0118a" : {
+      "name" : "Nova Core",
+      "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
+      "hide_staff" : true,
+      "admin" : [ "Mıþþłę", "_Pablito__" ],
+      "staff" : [ "° H I Y O K O °", "Nikyty", "°PuraVR°" ]
     },
     "ba2e93a1-473d-4291-9506-05f691b5ac17" : {
       "name" : "OptiSound ITALIA",
