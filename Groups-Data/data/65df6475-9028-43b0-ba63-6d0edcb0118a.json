@@ -1,6 +1,6 @@
 {
   "name" : "Nova Core",
-  "has_logo" : false,
+  "has_logo" : true,
   "has_banner" : true,
   "rules" : {
     "title" : "Regolamento Mittle Fanclub",
