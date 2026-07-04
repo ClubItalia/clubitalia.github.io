@@ -1,6 +1,6 @@
 {
   "name" : "Nova Core",
-  "has_logo" : true,
+  "has_logo" : false,
   "has_banner" : true,
   "rules" : {
     "title" : "Regolamento Mittle Fanclub",
@@ -8,7 +8,7 @@
   },
   "statistics" : {
     "instances_created" : 1,
-    "uptime_minutes" : 1190,
+    "uptime_minutes" : 1850,
     "period_days" : 30,
     "member_count" : 0
   }
