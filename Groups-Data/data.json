@@ -44,6 +44,13 @@
       "admin" : [ "Onyo_o" ],
       "staff" : [ "lunatico100", "mäggïe", "ʀզʐɛʟ", "Ƭαϝϝყ" ]
     },
+    "a0b4abea-b9ad-4a9c-ab86-66da3e944b5a" : {
+      "name" : "-CHILL GARDEN-",
+      "id" : "grp_a432786e-f5df-4efe-b255-037ddd4cca69",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "612c0940-1b82-426a-95fd-b06ad401e09e" : {
       "name" : "Club Italia",
       "id" : "grp_4e511c34-26f8-46ee-a472-c673630bc803",
@@ -216,8 +223,8 @@
       "name" : "Shadow Eclipse",
       "id" : "grp_10f98d7f-db39-4229-9e16-945458a99709",
       "hide_staff" : false,
-      "admin" : [ "antidopamina", "JustªShadow", "༒R U N A༒", "YΛЯIMӨV", "z4h0r1" ],
-      "staff" : [ "Asthemirea", "Cosimo97", "dilandog66", "KarmaNemesis", "Kenny_San", "Ketcore", "killobeatbox adce", "Mykky_Kky", "Pilota kamikaze", "ఌΔLΩNΞఌ" ]
+      "admin" : [ "antidopamina", "JustªShadow", "YΛЯIMӨV", "-ʏᴜᴍᴇᴋᴏ-", "z4h0r1" ],
+      "staff" : [ "Asthemirea", "Cosimo97", "dilandog66", "KarmaNemesis", "Kenny_San", "Ketcore", "killobeatbox adce", "Mykky_Kky", "Pilota kamikaze", "ఌΞЯƗƧఌ" ]
     },
     "91abb22d-d75e-4b30-8763-1ecf7c135a3b" : {
       "name" : "SILVESTRI I COGLIONI DESTRI",
