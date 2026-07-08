@@ -49,7 +49,7 @@
       "id" : "grp_a432786e-f5df-4efe-b255-037ddd4cca69",
       "hide_staff" : false,
       "admin" : [ "_-Aether_-" ],
-      "staff" : [ "Atomic_1002 faad" ]
+      "staff" : [ "Atomic_1002 faad", "MarcoBaux" ]
     },
     "612c0940-1b82-426a-95fd-b06ad401e09e" : {
       "name" : "Club Italia",
@@ -78,13 +78,6 @@
       "hide_staff" : false,
       "admin" : [ "flavietta22_", "LoZioBecca" ],
       "staff" : [ ]
-    },
-    "30e8b87c-53af-41cb-b1f0-eb6bf9ee01e3" : {
-      "name" : "Favij TV VR",
-      "id" : "grp_a245f07e-e8ea-4bb4-8f10-d6f9af2fd37c",
-      "hide_staff" : false,
-      "admin" : [ ],
-      "staff" : [ "〖SenpaiღFranky〗" ]
     },
     "47181f04-f2ce-446c-be0f-a680cd6fb7b1" : {
       "name" : "fichissimi",
@@ -127,6 +120,13 @@
       "hide_staff" : false,
       "admin" : [ "animanga0" ],
       "staff" : [ ]
+    },
+    "30e8b87c-53af-41cb-b1f0-eb6bf9ee01e3" : {
+      "name" : "I Risvegliati",
+      "id" : "grp_a245f07e-e8ea-4bb4-8f10-d6f9af2fd37c",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ "〖SenpaiღFranky〗" ]
     },
     "ba6b98c6-659c-4c0a-b151-4ac31e7bf592" : {
       "name" : "Italian Legion",
