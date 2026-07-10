@@ -69,7 +69,7 @@
       "name" : "COLELLA'S MAFIA",
       "id" : "grp_fd9112d4-873e-4486-a35a-dce829880a98",
       "hide_staff" : false,
-      "admin" : [ "~Gold" ],
+      "admin" : [ "~Gold", "Nikyty" ],
       "staff" : [ "Angelit4" ]
     },
     "84a84c2d-05ed-4ebe-b2aa-7df4c8e3b370" : {
