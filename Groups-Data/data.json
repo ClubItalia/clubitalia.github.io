@@ -49,7 +49,14 @@
       "id" : "grp_a432786e-f5df-4efe-b255-037ddd4cca69",
       "hide_staff" : false,
       "admin" : [ "_-Aether_-", "Atomic_1002 faad" ],
-      "staff" : [ "¥I Z A N A M I¥", "CornPoP_02", "MarcoBaux", "ulti_i", "wooper09" ]
+      "staff" : [ "¥I Z A N A M I¥", "CornPoP_02", "MarcoBaux", "save_1308", "ulti_i", "wooper09" ]
+    },
+    "2a8bafb2-98dd-4bd4-9a92-c128a6c96e17" : {
+      "name" : "ChillZone",
+      "id" : "grp_d0536686-2fcd-41f7-b4e2-c5abcf0ce4fc",
+      "hide_staff" : false,
+      "admin" : [ "Renzo Hex 07" ],
+      "staff" : [ "CornPoP_02", "Gabriel_ITA7 8f4c", "ギガバイト b9b2" ]
     },
     "612c0940-1b82-426a-95fd-b06ad401e09e" : {
       "name" : "Club Italia",
@@ -99,13 +106,6 @@
       "hide_staff" : false,
       "admin" : [ "Tizio_Del_Palco" ],
       "staff" : [ ]
-    },
-    "2a8bafb2-98dd-4bd4-9a92-c128a6c96e17" : {
-      "name" : "Hydra Resort",
-      "id" : "grp_d0536686-2fcd-41f7-b4e2-c5abcf0ce4fc",
-      "hide_staff" : false,
-      "admin" : [ "Renzo Hex 07" ],
-      "staff" : [ "CornPoP_02", "Gabriel_ITA7 8f4c", "ギガバイト b9b2" ]
     },
     "32520897-6c49-472c-82a5-b07695047c5f" : {
       "name" : "Il Regno del Parmareggio",
