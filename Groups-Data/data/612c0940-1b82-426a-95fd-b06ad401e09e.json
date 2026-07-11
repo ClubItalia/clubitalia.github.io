@@ -1,7 +1,7 @@
 {
   "name" : "Club Italia",
   "has_logo" : false,
-  "has_banner" : false,
+  "has_banner" : true,
   "rules" : {
     "title" : "Regolamento Club Italia",
     "body" : "AAAAAAA"
