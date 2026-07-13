@@ -302,13 +302,6 @@
       "hide_staff" : false,
       "admin" : [ "༺ARU༻", "di4mante", "Li̸̇o̴n̴" ],
       "staff" : [ "Il_Val" ]
-    },
-    "815c57bc-ae47-4024-a16a-3d37c77efb1d" : {
-      "name" : "~混乱",
-      "id" : "grp_97d4f300-82e6-410d-93f0-c07b280ce1e6",
-      "hide_staff" : false,
-      "admin" : [ "Sayl_" ],
-      "staff" : [ ]
     }
   },
   "trophies" : {
