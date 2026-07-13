@@ -2,7 +2,10 @@
   "name" : "Astrial",
   "has_logo" : true,
   "has_banner" : false,
-  "rules" : null,
+  "rules" : {
+    "title" : "Regolamento Astrial",
+    "body" : "Community ASTRIAL\n; REGOLAMENTO - STAFFER - REGOLAMENTO GRUPPI - REGOLAMENTO AVATAR\n\nREGOLAMENTO\n\n1․ È obbligatorio portare rispetto a membri e staffer in qualsiasi situazione; le mancanze di rispetto non verranno tollerate․\n\n2․ Non sono tollerati commenti razzisti‚ omofobi o discriminatori verso alcuna comunità o minoranza․\n\n3․ È consentito parlare di qualsiasi argomento‚ dalla politica fino a discorsi più personali‚ purché lo si faccia in modo rispettoso e adeguato․\n\n4․ È buona norma chiedere il permesso prima di ascoltare conversazioni private o personali allinterno della mappa․\n\n5․ È vietato bloccare i membri dello staff dalla mappa; atteggiamenti di questo genere verranno sanzionati․\n\n6․ È vietato creare situazioni problematiche e conflittuali allinterno della mappa; in caso di problemi‚ comunica l'accaduto allo staff per avere provvedimenti immediati․\n\nREGOLAMENTO AVATAR\n\n7․ Per quanto riguarda gli avatar‚ è vietato utilizzare modelli NSFW‚ gore o di personaggi storici legati a tragedie․\n\n8․ È vietato utilizzare avatar che fanno crashare il server; lo stesso divieto si applica alluso eccessivo di effetti․\n\n9․ Non è consentito utilizzare avatar di dimensioni eccessive; laltezza massima accettata è di 3‚5 metri․\n\nREGOLAMENTO GRUPPI\n\n10․ All'interno dei gruppi‚ non è consentito muovere critiche con lintento di sminuire o denigrare altre realtà della community․\n\n11․ È vietato sponsorizzare altri gruppi allinterno del nostro; azioni di questo genere verranno sanzionate․\n\nGrazie per aver letto tutto il regolamento‚ ti auguriamo una buona permanenza․"
+  },
   "statistics" : {
     "instances_created" : 0,
     "uptime_minutes" : 0,
