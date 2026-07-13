@@ -44,6 +44,13 @@
       "admin" : [ "Onyo_o" ],
       "staff" : [ "lunatico100", "mäggïe", "ʀզʐɛʟ", "Ƭαϝϝყ" ]
     },
+    "670cc63f-acb0-42ed-b4d8-1020ff07125c" : {
+      "name" : "Astrial",
+      "id" : "grp_cafae42a-9ff0-46ab-a4b9-6f9a5ab0be00",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "a0b4abea-b9ad-4a9c-ab86-66da3e944b5a" : {
       "name" : "-CHILL GARDEN-",
       "id" : "grp_a432786e-f5df-4efe-b255-037ddd4cca69",
@@ -175,7 +182,7 @@
       "id" : "grp_3fc86287-b9db-42a1-9e5a-c0da01203ef3",
       "hide_staff" : false,
       "admin" : [ "GohanTheRealOne", "Ray289" ],
-      "staff" : [ "bo12345656790", "Raffaele11" ]
+      "staff" : [ "bo12345656790" ]
     },
     "2363ea7e-2a31-4fc3-8e37-ee4aba716681" : {
       "name" : "Nightfall Circle",
@@ -202,7 +209,7 @@
       "name" : "Pokémon Italia",
       "id" : "grp_178c196b-82d4-401c-9135-71d1febb7e1e",
       "hide_staff" : true,
-      "admin" : [ "Diantha" ],
+      "admin" : [ "Starr Nova" ],
       "staff" : [ "NPull", "Tizio_Del_Palco" ]
     },
     "e88ddb12-6770-4b79-b891-12c69fa67ca0" : {
@@ -245,7 +252,7 @@
       "id" : "grp_bfd70fb5-8526-4a87-997d-8073afac8282",
       "hide_staff" : false,
       "admin" : [ "YΛЯIMӨV" ],
-      "staff" : [ "BennyXD39", "Mykky_Kky", "ulti_i", "Valer13" ]
+      "staff" : [ "BennyXD39", "Mykky_Kky", "ulti_i", "-_-Valerie-_-" ]
     },
     "94f1618d-7b75-45e7-b33a-bcf32e0a82d5" : {
       "name" : "The Tower",
