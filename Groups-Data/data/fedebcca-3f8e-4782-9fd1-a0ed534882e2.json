@@ -2,7 +2,10 @@
   "name" : "Sundown-Italia",
   "has_logo" : true,
   "has_banner" : true,
-  "rules" : null,
+  "rules" : {
+    "title" : "Regolamento Sundown-Italia",
+    "body" : "REGOLE˸\nno hate-speech （n-word‚ omofobia‚ transfobia eccetera․）\nSOLO GLI ADULTI POSSONO ENTRARE\nnon essere un disturbo per le persone"
+  },
   "statistics" : {
     "instances_created" : 0,
     "uptime_minutes" : 0,
