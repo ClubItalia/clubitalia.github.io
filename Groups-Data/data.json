@@ -307,7 +307,7 @@
       "name" : "~混乱",
       "id" : "grp_97d4f300-82e6-410d-93f0-c07b280ce1e6",
       "hide_staff" : true,
-      "admin" : [ ],
+      "admin" : [ "Sayl_" ],
       "staff" : [ ]
     }
   },
