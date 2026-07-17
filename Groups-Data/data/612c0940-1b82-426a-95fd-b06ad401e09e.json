@@ -1,7 +1,7 @@
 {
   "name" : "~混乱",
   "has_logo" : true,
-  "has_banner" : false,
+  "has_banner" : true,
   "rules" : null,
   "statistics" : {
     "instances_created" : 0,
