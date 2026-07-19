@@ -163,13 +163,6 @@
       "admin" : [ "BossettiVR" ],
       "staff" : [ ]
     },
-    "505a1abf-53aa-4431-8800-f184aa725664" : {
-      "name" : "Le Papere",
-      "id" : "grp_03211294-7624-48d9-bb25-d083d966ed94",
-      "hide_staff" : false,
-      "admin" : [ "papera1", "TheIceDragonz" ],
-      "staff" : [ ]
-    },
     "289c37f8-37c1-415a-b88e-068b9ae17d94" : {
       "name" : "Made in Sud",
       "id" : "grp_86f88824-16e1-4522-b9ab-e524f56996e6",
