@@ -135,13 +135,6 @@
       "admin" : [ "GohanTheRealOne", "Ray289" ],
       "staff" : [ "bo12345656790" ]
     },
-    "2363ea7e-2a31-4fc3-8e37-ee4aba716681" : {
-      "name" : "Nightfall Circle",
-      "id" : "grp_70e37c2b-283f-4470-bc2a-4a07de085274",
-      "hide_staff" : false,
-      "admin" : [ "BlackReiss", "lamaerrante", "xVito" ],
-      "staff" : [ ]
-    },
     "65df6475-9028-43b0-ba63-6d0edcb0118a" : {
       "name" : "Nova Core",
       "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
