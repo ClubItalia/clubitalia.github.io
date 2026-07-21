@@ -72,13 +72,6 @@
       "admin" : [ "rxso" ],
       "staff" : [ ]
     },
-    "c8945a4b-7a59-4644-bc9f-22b2247598e8" : {
-      "name" : "Golden maid cofe",
-      "id" : "grp_74e79713-8f4b-4d87-8360-5bed8aeed07d",
-      "hide_staff" : false,
-      "admin" : [ "Tizio_Del_Palco" ],
-      "staff" : [ ]
-    },
     "18525eca-70a7-479e-9e0a-68a99950e339" : {
       "name" : "Il Covo Di N",
       "id" : "grp_6f324808-7af7-4c77-a790-0618f46f3425",
