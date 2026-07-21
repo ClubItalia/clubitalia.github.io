@@ -121,13 +121,6 @@
       "admin" : [ "BossettiVR" ],
       "staff" : [ ]
     },
-    "289c37f8-37c1-415a-b88e-068b9ae17d94" : {
-      "name" : "Made in Sud",
-      "id" : "grp_86f88824-16e1-4522-b9ab-e524f56996e6",
-      "hide_staff" : false,
-      "admin" : [ ],
-      "staff" : [ ]
-    },
     "c286c452-1c36-40e3-bee8-977e9a9222bc" : {
       "name" : "MAELSTROM",
       "id" : "grp_50982855-1b9f-40b5-bb5e-dd3a041af6ba",
