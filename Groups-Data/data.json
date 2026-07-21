@@ -23,13 +23,6 @@
       "admin" : [ "Gianpippo_Banan" ],
       "staff" : [ ]
     },
-    "59bc1b47-e9dd-4d42-85fd-a9b8e0166d41" : {
-      "name" : "Anti Bruciati",
-      "id" : "grp_d98a6cc0-23b7-4865-9092-55dcd8b07181",
-      "hide_staff" : false,
-      "admin" : [ "CσCσ", "Shel77" ],
-      "staff" : [ ]
-    },
     "670cc63f-acb0-42ed-b4d8-1020ff07125c" : {
       "name" : "Astrial",
       "id" : "grp_cafae42a-9ff0-46ab-a4b9-6f9a5ab0be00",
