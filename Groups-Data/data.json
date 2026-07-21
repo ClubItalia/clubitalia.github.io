@@ -9,13 +9,6 @@
       "admin" : [ "_Kevin", "PODI" ],
       "staff" : [ ]
     },
-    "623a1596-ed96-4282-9288-175ffc097608" : {
-      "name" : "Advanced Italia",
-      "id" : "grp_e45aeb2f-5b45-4739-bd90-36dfa89eac3e",
-      "hide_staff" : false,
-      "admin" : [ "SuspiciousPract" ],
-      "staff" : [ ]
-    },
     "be55428c-be78-4643-aea3-968c525a8306" : {
       "name" : "Aetherfall",
       "id" : "grp_5d9619a1-bae8-4688-a302-1f6fff11493a",
