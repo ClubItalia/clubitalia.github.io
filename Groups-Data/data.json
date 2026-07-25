@@ -58,6 +58,13 @@
       "admin" : [ "MurderDr0nesN" ],
       "staff" : [ ]
     },
+    "94f1618d-7b75-45e7-b33a-bcf32e0a82d5" : {
+      "name" : "Il Regno del Parmareggio",
+      "id" : "grp_dbff0b49-05ea-4e10-8a8d-8f5892595efc",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "c286c452-1c36-40e3-bee8-977e9a9222bc" : {
       "name" : "MAELSTROM",
       "id" : "grp_50982855-1b9f-40b5-bb5e-dd3a041af6ba",
