@@ -1,6 +1,6 @@
 {
   "name" : "Il Regno del Parmareggio",
-  "has_logo" : false,
+  "has_logo" : true,
   "has_banner" : false,
   "rules" : {
     "title" : "Regolamento Il Regno del Parmareggio",
@@ -8,7 +8,7 @@
   },
   "statistics" : {
     "instances_created" : 1,
-    "uptime_minutes" : 2,
+    "uptime_minutes" : 3,
     "period_days" : 30,
     "member_count" : 0
   }
