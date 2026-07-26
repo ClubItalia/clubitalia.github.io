@@ -9,6 +9,13 @@
       "admin" : [ "_Kevin", "PODI" ],
       "staff" : [ ]
     },
+    "505a1abf-53aa-4431-8800-f184aa725664" : {
+      "name" : "Aetherfall",
+      "id" : "grp_5d9619a1-bae8-4688-a302-1f6fff11493a",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "670cc63f-acb0-42ed-b4d8-1020ff07125c" : {
       "name" : "Astrial",
       "id" : "grp_cafae42a-9ff0-46ab-a4b9-6f9a5ab0be00",
