@@ -1,6 +1,6 @@
 {
   "name" : "L'Unione Imperiale",
-  "has_logo" : false,
+  "has_logo" : true,
   "has_banner" : false,
   "rules" : null,
   "statistics" : {
