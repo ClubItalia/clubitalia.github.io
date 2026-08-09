@@ -1,0 +1,12 @@
+{
+  "name" : "Futuro Virtuale",
+  "has_logo" : true,
+  "has_banner" : false,
+  "rules" : null,
+  "statistics" : {
+    "instances_created" : 2,
+    "uptime_minutes" : 70,
+    "period_days" : 30,
+    "member_count" : 0
+  }
+}
