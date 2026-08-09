@@ -51,6 +51,13 @@
       "admin" : [ "c4t_boy" ],
       "staff" : [ ]
     },
+    "1acf1ed8-6a76-43e9-8908-6f3d1a501d1e" : {
+      "name" : "Futuro Virtuale",
+      "id" : "grp_28cfc7e0-e5d0-4960-b9cb-4693f59787c4",
+      "hide_staff" : true,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "18525eca-70a7-479e-9e0a-68a99950e339" : {
       "name" : "Il Covo Di N",
       "id" : "grp_6f324808-7af7-4c77-a790-0618f46f3425",
