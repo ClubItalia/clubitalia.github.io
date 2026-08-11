@@ -4,8 +4,8 @@
   "has_banner" : false,
   "rules" : null,
   "statistics" : {
-    "instances_created" : 10,
-    "uptime_minutes" : 135,
+    "instances_created" : 8,
+    "uptime_minutes" : 101,
     "period_days" : 30,
     "member_count" : 0
   }
