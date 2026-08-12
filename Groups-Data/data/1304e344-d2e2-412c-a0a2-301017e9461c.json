@@ -1,14 +1,14 @@
 {
   "name" : "TheRealms",
   "has_logo" : true,
-  "has_banner" : false,
+  "has_banner" : true,
   "rules" : {
     "title" : "Regolamento TheRealms",
     "body" : "Non parlare di questioni politiche che possono creare un eventuale conflitto\n\nnon importunare nessuno\n\nRispetta il prossimo\n\nNiente avatar crasher o NSFW\n\nENJOYǃǃǃ"
   },
   "statistics" : {
     "instances_created" : 2,
-    "uptime_minutes" : 215,
+    "uptime_minutes" : 216,
     "period_days" : 30,
     "member_count" : 0
   }
