@@ -37,6 +37,13 @@
       "admin" : [ ],
       "staff" : [ ]
     },
+    "fbd76cb5-32ba-4be9-b58f-bca1d4a7498d" : {
+      "name" : "COLELLA'S MAFIA",
+      "id" : "grp_fd9112d4-873e-4486-a35a-dce829880a98",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "815c57bc-ae47-4024-a16a-3d37c77efb1d" : {
       "name" : "Ethereal ITA",
       "id" : "grp_e4e6d631-55a6-4873-b353-054830de9756",
