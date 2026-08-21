@@ -1,7 +1,7 @@
 Regolamento TheRealms
 
 ∗∗REGOLE DELLA COMMUNITY∗∗
-  SANZIONI
+ SANZIONI
 
 3 WARN = KICK
 5 KICK = BAN
@@ -14,6 +14,8 @@ Mancato rispetto dell'età minima
 Trolling grave
 Diffamazione della community o degli utenti
 Abuso dello staff o ingresso nello staff con l'intenzione di creare problemi
+Fare sponsor o rilasciare portali di altri gruppi
+
 ［ §1 · RISPETTO ］
 
 Rispetta tutti. Insulti, discriminazioni, provocazioni e minacce non sono ammessi. In caso di problemi, risolvili in privato senza creare drama.
@@ -53,7 +55,7 @@ Avatar superiori a 3 metri non sono ammessi.
 
 ［ §10 · STAFF ］
 
-Rispetta le decisioni dello staff e non ostacolare il suo lavoro. Tenere sbloccato almeno un moderatore per istance, salvo diversa indicazione dello staff.
+Rispetta le decisioni dello staff e non ostacolare il suo lavoro. Tenere sbloccato almeno un moderatore per istanza, salvo diversa indicazione dello staff.
 
 ［ §11 · ETÀ MINIMA ］
 
@@ -63,6 +65,4 @@ L'età minima per entrare nella community è 13 anni.
 
 Non sono ammessi slur razzisti, omofobi o discriminatori usati con intento offensivo.
 
-［ §13 · DIVERTITI! ］ 
-
-The Realms nasce per stare insieme, divertirsi
+［ §13 · DIVERTITI! ］
