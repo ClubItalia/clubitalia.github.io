@@ -1,61 +1,68 @@
 Regolamento TheRealms
 
 ∗∗REGOLE DELLA COMMUNITY∗∗
+  SANZIONI
 
-3 WARN= KICK
+3 WARN = KICK
+5 KICK = BAN
 
-5 KICK= BAN
+Per comportamenti particolarmente gravi lo staff può applicare direttamente un BAN PERMANENTE, tra cui:
 
-AVATAR CRASHER, PEDOFILIA, ETA' MINIMA NON RISPETTATA, TROLLING ESAGERATO, DIFFAMAZIONE DEL GRUPPO/DEGLI UTENTI O ENTRARE NELLO STAFF PER FARE CASINI= PERM BAN
+Avatar crasher
+Pedofilia
+Mancato rispetto dell'età minima
+Trolling grave
+Diffamazione della community o degli utenti
+Abuso dello staff o ingresso nello staff con l'intenzione di creare problemi
+［ §1 · RISPETTO ］
 
-［ §1․ RISPETTO ］
+Rispetta tutti. Insulti, discriminazioni, provocazioni e minacce non sono ammessi. In caso di problemi, risolvili in privato senza creare drama.
 
-Rispetta sempre gli altri membri․ Insulti‚ provocazioni e discrimilokioni non sono tollerati․
+［ §2 · AMBIENTE ］
 
-［ §2․ AMBIENTE CHILL ］
+Mantieni un'atmosfera chill e tranquilla. Evita litigi, provocazioni e comportamenti tossici.
 
-Divertiti‚ socializza e mantieni unatmosfera tranquilla․ Evita drama‚ litigi e comportamenti tossici․
+［ §3 · NSFW ］
 
-［ §3․ NIENTE NSFW ］
+Sono vietati nudità, contenuti sessuali, NSFW e materiale inappropriato.
 
-Sono vietati nudità‚ atti sessuali‚ contenuti NSFW o materiale inappropriato negli spazi pubblici․
+［ §4 · COMPORTAMENTI INTIMI ］
 
-［ §4․ COMPORTAMENTI INTIMI ］
+Niente comportamenti o effusioni eccessivamente intime negli spazi pubblici della community.
 
- comportamenti intimi non sono appropriati negli spazi pubblici․ Se necessario‚ svolgili esclusivamente in stanze private e lontano dagli altri utenti․
+［ §5 · AVATAR ］
 
-［ §5․ AVATAR APPROPRIATI ］
+Usa avatar adatti agli spazi pubblici. Niente avatar espliciti o eccessivamente sessualizzati.
 
-Utilizza avatar adatti a VRChat e agli spazi pubblici․ Avatar eccessivamente sessualizzati o inappropriati non sono ammessi․
+［ §6 · AUDIO ］
 
-［ §6․ DISCIPLINA AUDIO ］
+Evita urla, soundboard, musica ad alto volume e rumori molesti.
 
-Mantieni un volume adeguato․ Evita urla‚ soundboard‚ musica ad alto volume e rumori molesti․
+［ §7 · PRIVACY ］
 
-［ §7․ PRIVACY ］
+Non condividere dati personali, foto o informazioni private senza il consenso della persona interessata.
 
-Rispetta la privacy degli altri․ Non diffondere dati personali‚ immagini o informazioni private senza consenso․
+［ §8 · MOLESTIE ］
 
-［ §8․ MOLESTIE ＆ DISTURBI ］
+Sono vietati stalking, minacce, molestie e disturbi intenzionali.
 
-Molestie‚ minacce‚ stalking e comportamenti intenzionalmente disturbanti non sono consentiti․
+［ §9 · SPAZI ］
 
-［ §9․ RISPETTO DEGLI SPAZI ］
+Rispetta mondi, eventi e attività degli altri.
+Avatar superiori a 3 metri non sono ammessi.
 
-Rispetta mondi‚ eventi e attività degli altri․ Non disturbare intenzionalmente l'esperienza degli altri player․ Non sono ammessi avatar piu' alti di 3 metri․
+［ §10 · STAFF ］
 
-［ §10 RISPETTA LO STAFF ］
+Rispetta le decisioni dello staff e non ostacolare il suo lavoro. Tenere sbloccato almeno un moderatore per istance, salvo diversa indicazione dello staff.
 
-non bloccare piu' di 2 moderatori （dipende dalle circostanze）‚ cosi' da non contromettere il lavoro dello staff
+［ §11 · ETÀ MINIMA ］
 
+L'età minima per entrare nella community è 13 anni.
 
-［ §11․ ETA' MINIMA ］
+［ §12 · LINGUAGGIO ］
 
-Eta' minima per entrare minima 13 ANNI
+Non sono ammessi slur razzisti, omofobi o discriminatori usati con intento offensivo.
 
-［ §12․ LINGUAGGIO ］
+［ §13 · DIVERTITI! ］ 
 
-N-word, f-word, o altre definizioni a scopo offensivo non sono tollerate 
-
-［ §13․ DIVERTITI ］
- <3
+The Realms nasce per stare insieme, divertirsi
