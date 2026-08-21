@@ -6,7 +6,7 @@ Regolamento TheRealms
 
 5 KICK= BAN
 
-AVATAR CRASHER, PEDOFILIA, ETA' MINIMA NON RISPETTATA, TROLLING ESAGERATO O ENTRARE NELLO STAFF PER FARE CASINI= PERM BAN
+AVATAR CRASHER, PEDOFILIA, ETA' MINIMA NON RISPETTATA, TROLLING ESAGERATO, DIFFAMAZIONE DEL GRUPPO/DEGLI UTENTI O ENTRARE NELLO STAFF PER FARE CASINI= PERM BAN
 
 ［ §1․ RISPETTO ］
 
@@ -57,7 +57,5 @@ Eta' minima per entrare minima 13 ANNI
 
 N-word, f-word, o altre definizioni a scopo offensivo non sono tollerate 
 
-
 ［ §13․ DIVERTITI ］
-
-The Realms nasce per stare insieme‚ diver
+ <3
