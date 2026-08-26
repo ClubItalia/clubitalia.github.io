@@ -107,13 +107,6 @@
       "admin" : [ "Diantha" ],
       "staff" : [ "NPull", "Ocram03", "Tizio_Del_Palco" ]
     },
-    "e88ddb12-6770-4b79-b891-12c69fa67ca0" : {
-      "name" : "Red Room Social ＋18",
-      "id" : "grp_0488e31a-9f47-4f82-a4e1-54fdb78adad0",
-      "hide_staff" : false,
-      "admin" : [ ],
-      "staff" : [ ]
-    },
     "a9e4ab4b-1291-4b99-baa8-bbb864e7dd94" : {
       "name" : "Shadow Eclipse",
       "id" : "grp_10f98d7f-db39-4229-9e16-945458a99709",
