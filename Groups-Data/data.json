@@ -44,18 +44,18 @@
       "admin" : [ "Albertocolella", "_andr3", "~Gold" ],
       "staff" : [ ]
     },
+    "1acf1ed8-6a76-43e9-8908-6f3d1a501d1e" : {
+      "name" : "Consiglio di Sicurezza Italiano",
+      "id" : "grp_28cfc7e0-e5d0-4960-b9cb-4693f59787c4",
+      "hide_staff" : true,
+      "admin" : [ "-o0 MĪTTLĘ 0o-" ],
+      "staff" : [ ]
+    },
     "815c57bc-ae47-4024-a16a-3d37c77efb1d" : {
       "name" : "Ethereal ITA",
       "id" : "grp_e4e6d631-55a6-4873-b353-054830de9756",
       "hide_staff" : false,
       "admin" : [ "c4t_boy" ],
-      "staff" : [ ]
-    },
-    "1acf1ed8-6a76-43e9-8908-6f3d1a501d1e" : {
-      "name" : "Futuro Virtuale",
-      "id" : "grp_28cfc7e0-e5d0-4960-b9cb-4693f59787c4",
-      "hide_staff" : true,
-      "admin" : [ "MITTŁE-VÊRĂÑŐ" ],
       "staff" : [ ]
     },
     "18525eca-70a7-479e-9e0a-68a99950e339" : {
@@ -97,7 +97,7 @@
       "name" : "Nova Core",
       "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
       "hide_staff" : true,
-      "admin" : [ "MITTŁE-VÊRĂÑŐ", "N£ar", "_Pablito__" ],
+      "admin" : [ "N£ar", "-o0 MĪTTLĘ 0o-", "_Pablito__" ],
       "staff" : [ "° H I Y O K O °", "°PuraVR°", "TrueAfrodite" ]
     },
     "aa3626b1-ef80-4edd-8c51-c6b0a722958e" : {
@@ -161,7 +161,7 @@
       "id" : "grp_1583b5c4-a7cc-4e69-90bf-456318c2a9e4",
       "hide_staff" : false,
       "admin" : [ "ImFazee", "Till Valyx" ],
-      "staff" : [ "c4t_boy", "Diantha", "enkss", "GoldenRose50 b9c5", "Haxurus", "Jinlod", "Kevindemorte", "MITTŁE-VÊRĂÑŐ", "Purple_dust", "Ramacka", "Volpo", "__WillyWonka__", "_валя" ]
+      "staff" : [ "c4t_boy", "Diantha", "enkss", "GoldenRose50 b9c5", "Haxurus", "Jinlod", "Kevindemorte", "-o0 MĪTTLĘ 0o-", "Pietro9669", "Purple_dust", "Ramacka", "Volpo", "__WillyWonka__", "_валя" ]
     },
     "d7393e22-9a87-40f9-9e9d-5e65ab5095d0" : {
       "name" : "VRChill ITALIA",
