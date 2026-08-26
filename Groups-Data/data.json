@@ -114,13 +114,6 @@
       "admin" : [ ],
       "staff" : [ ]
     },
-    "fd9945e3-21bd-4e90-a809-865e276ce94c" : {
-      "name" : "Rifugio della Famiglia",
-      "id" : "grp_9dd2e3f5-9c41-44e3-9755-566a0769b88e",
-      "hide_staff" : false,
-      "admin" : [ "Abyssal D Foxy", "Beltazhor", "°PuraVR°" ],
-      "staff" : [ "Amon25TK", "LuxieSafaia", "Zanjooo" ]
-    },
     "a9e4ab4b-1291-4b99-baa8-bbb864e7dd94" : {
       "name" : "Shadow Eclipse",
       "id" : "grp_10f98d7f-db39-4229-9e16-945458a99709",
