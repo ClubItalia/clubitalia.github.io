@@ -52,7 +52,7 @@
       "staff" : [ ]
     },
     "815c57bc-ae47-4024-a16a-3d37c77efb1d" : {
-      "name" : "Ethereal ITA",
+      "name" : "Continental Intelligence Service",
       "id" : "grp_e4e6d631-55a6-4873-b353-054830de9756",
       "hide_staff" : false,
       "admin" : [ "c4t_boy" ],
@@ -129,7 +129,7 @@
       "staff" : [ ]
     },
     "1304e344-d2e2-412c-a0a2-301017e9461c" : {
-      "name" : "TheRealms",
+      "name" : "The Realms ITA",
       "id" : "grp_1583b5c4-a7cc-4e69-90bf-456318c2a9e4",
       "hide_staff" : false,
       "admin" : [ "ImFazee", "Till Valyx" ],
