@@ -128,6 +128,13 @@
       "admin" : [ "el_diocristo", "Samuso103" ],
       "staff" : [ ]
     },
+    "59bc1b47-e9dd-4d42-85fd-a9b8e0166d41" : {
+      "name" : "The Chicos Ørganización",
+      "id" : "grp_9e2ab70d-1260-4343-9e33-157369cd1983",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "1304e344-d2e2-412c-a0a2-301017e9461c" : {
       "name" : "The Realms ITA",
       "id" : "grp_1583b5c4-a7cc-4e69-90bf-456318c2a9e4",
