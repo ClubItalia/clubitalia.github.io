@@ -2,7 +2,10 @@
   "name" : "The Chicos Ørganización",
   "has_logo" : true,
   "has_banner" : true,
-  "rules" : null,
+  "rules" : {
+    "title" : "Regolamento The Chicos Ørganización",
+    "body" : "non dovete succhiare i cazzi su vrchat coglioni di merda"
+  },
   "statistics" : {
     "instances_created" : 1,
     "uptime_minutes" : 20,
