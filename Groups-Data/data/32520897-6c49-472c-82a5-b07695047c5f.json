@@ -1,14 +1,14 @@
 {
   "name" : "IL_COMUNE_DI_CAGLIARI",
   "has_logo" : true,
-  "has_banner" : false,
+  "has_banner" : true,
   "rules" : {
     "title" : "Regolamento IL_COMUNE_DI_CAGLIARI",
     "body" : "Piccole regole\n-1°) Non fare casino nelle instances.\n-2°) Cerca di contenere le bestemmie, ci potrebbero essere ragazzini di bassa fascia d'età e potrebbero essere facilmente suscettibili a contenuti poco raccomandabili.\n-3°) Non create traffico nella 554.\n-4°) Se vedete un negr* di poco gusto sotto ai portici non picchiatelo, grazie.\n-5°) Non stressate gli staffer per cagate inutili facilmente risolvibili.\n-6°) Sono accettati furry, femboy, trans, omossesuabili, omofobi, (basti che non si creino risse senza l'approvazione degli staffer."
   },
   "statistics" : {
     "instances_created" : 1,
-    "uptime_minutes" : 31,
+    "uptime_minutes" : 33,
     "period_days" : 30,
     "member_count" : 0
   }
