@@ -48,7 +48,7 @@
       "name" : "IL_COMUNE_DI_CAGLIARI",
       "id" : "grp_ef468013-27e0-4384-b763-5c79d9bfc6cf",
       "hide_staff" : false,
-      "admin" : [ ],
+      "admin" : [ "_SOLARE_" ],
       "staff" : [ "__WillyWonka__" ]
     },
     "18525eca-70a7-479e-9e0a-68a99950e339" : {
