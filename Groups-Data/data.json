@@ -132,7 +132,7 @@
       "name" : "Winnita Casinò",
       "id" : "grp_0d70ab25-c499-41e6-abdf-5c37a502b239",
       "hide_staff" : true,
-      "admin" : [ ],
+      "admin" : [ "-Q4-" ],
       "staff" : [ ]
     }
   },
