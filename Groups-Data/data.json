@@ -127,6 +127,13 @@
       "hide_staff" : false,
       "admin" : [ "ImFazee", "Till Valyx" ],
       "staff" : [ "c4t_boy", "enkss", "-Flowey-", "GoldenRose50 b9c5", "Haxurus", "Jinlod", "Kevindemorte", "-o0 MĪTTLĘ 0o-", "Pietro9669", "Ramacka", "Volpo", "__WillyWonka__", "_валя" ]
+    },
+    "86a25624-e3bb-46b9-959f-2273933558a7" : {
+      "name" : "Winnita Casinò",
+      "id" : "grp_0d70ab25-c499-41e6-abdf-5c37a502b239",
+      "hide_staff" : true,
+      "admin" : [ ],
+      "staff" : [ ]
     }
   },
   "trophies" : {
