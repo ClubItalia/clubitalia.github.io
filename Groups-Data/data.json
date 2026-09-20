@@ -13,21 +13,21 @@
       "name" : "Astrial",
       "id" : "grp_cafae42a-9ff0-46ab-a4b9-6f9a5ab0be00",
       "hide_staff" : false,
-      "admin" : [ "N£ar", "relivsz" ],
+      "admin" : [ "ｌＵｍＩｎＯｓ", "relivsz" ],
       "staff" : [ "°PuraVR°" ]
     },
     "2a8bafb2-98dd-4bd4-9a92-c128a6c96e17" : {
-      "name" : "ChillZone",
+      "name" : "Chill Zone",
       "id" : "grp_d0536686-2fcd-41f7-b4e2-c5abcf0ce4fc",
       "hide_staff" : false,
-      "admin" : [ "Renzo Hex 07" ],
+      "admin" : [ "RENZO CYBER" ],
       "staff" : [ "CornPoP_02", "ELITE08ark", "Gabriel_ITA7 8f4c", "JaronaTheReal1", "ギガバイト b9b2" ]
     },
     "8d6a36cc-8973-4232-87e9-67681a72cbbd" : {
       "name" : "Club Italia",
       "id" : "grp_4e511c34-26f8-46ee-a472-c673630bc803",
       "hide_staff" : false,
-      "admin" : [ ],
+      "admin" : [ "Jixteria" ],
       "staff" : [ ]
     },
     "fbd76cb5-32ba-4be9-b58f-bca1d4a7498d" : {
@@ -71,13 +71,6 @@
       "hide_staff" : false,
       "admin" : [ "Atomic_1002 faad", "ᴋ ʏ ᴀ ᴍ ɪ", "Mattia25" ],
       "staff" : [ "¥I Z A N A M I¥", "bo12345656790", "CornPoP_02", "MarcoBaux", "save_1308", "ulti_i", "wooper09" ]
-    },
-    "c286c452-1c36-40e3-bee8-977e9a9222bc" : {
-      "name" : "MAELSTROM",
-      "id" : "grp_50982855-1b9f-40b5-bb5e-dd3a041af6ba",
-      "hide_staff" : false,
-      "admin" : [ "Devilmen178", "Fasci", "Gianpippo_Banan", "_N3RU_", "_viper20_" ],
-      "staff" : [ "ignzio_", "inquisitore739", "LORD BREAD 76", "RobyRolla", "YΛЯIMӨV" ]
     },
     "dd6e49d4-1ab4-442f-ba93-f18dc335ef96" : {
       "name" : "NerdITALIA",
@@ -127,6 +120,13 @@
       "hide_staff" : false,
       "admin" : [ "ImFazee", "Till Valyx" ],
       "staff" : [ "c4t_boy", "enkss", "-Flowey-", "GoldenRose50 b9c5", "Haxurus", "Jinlod", "Kevindemorte", "-o0 MĪTTLĘ 0o-", "Pietro9669", "Ramacka", "Volpo", "__WillyWonka__", "_валя" ]
+    },
+    "c286c452-1c36-40e3-bee8-977e9a9222bc" : {
+      "name" : "TROPICHILL ITALIA",
+      "id" : "grp_50982855-1b9f-40b5-bb5e-dd3a041af6ba",
+      "hide_staff" : false,
+      "admin" : [ "Devilmen178", "Fasci", "Gianpippo_Banan", "_N3RU_", "_viper20_" ],
+      "staff" : [ "ignzio_", "inquisitore739", "LORD BREAD 76", "RobyRolla", "YΛЯIMӨV" ]
     },
     "86a25624-e3bb-46b9-959f-2273933558a7" : {
       "name" : "Winnita Casinò",
