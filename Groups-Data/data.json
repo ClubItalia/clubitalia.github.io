@@ -20,7 +20,7 @@
       "name" : "Chill Zone",
       "id" : "grp_d0536686-2fcd-41f7-b4e2-c5abcf0ce4fc",
       "hide_staff" : false,
-      "admin" : [ "RENZO CYBER" ],
+      "admin" : [ "Renzo Hex 07" ],
       "staff" : [ "CornPoP_02", "ELITE08ark", "Gabriel_ITA7 8f4c", "JaronaTheReal1", "ギガバイト b9b2" ]
     },
     "8d6a36cc-8973-4232-87e9-67681a72cbbd" : {
@@ -41,7 +41,7 @@
       "name" : "Continental Intelligence Service",
       "id" : "grp_28cfc7e0-e5d0-4960-b9cb-4693f59787c4",
       "hide_staff" : true,
-      "admin" : [ "-o0 MĪTTLĘ 0o-" ],
+      "admin" : [ "MĮTTLĘ" ],
       "staff" : [ ]
     },
     "32520897-6c49-472c-82a5-b07695047c5f" : {
@@ -63,7 +63,7 @@
       "id" : "grp_26042422-a435-432e-8811-9d3a2e494101",
       "hide_staff" : false,
       "admin" : [ "ItsYunoGxsai", "Mozzie-_-", "Ray289" ],
-      "staff" : [ "Arissol", "bo12345656790", "Purple_dust" ]
+      "staff" : [ "Arissol", "bo12345656790", "Dracon_Fire" ]
     },
     "289c37f8-37c1-415a-b88e-068b9ae17d94" : {
       "name" : "ItalyVRC",
@@ -86,12 +86,19 @@
       "admin" : [ "JaronaTheReal1", "Sluka64" ],
       "staff" : [ "BennyXD39", "bo12345656790", "Cicciogamer89", "LelyanVelv Hope", "Ray289", "Tesco_" ]
     },
+    "2363ea7e-2a31-4fc3-8e37-ee4aba716681" : {
+      "name" : "Nova Core",
+      "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "a9e4ab4b-1291-4b99-baa8-bbb864e7dd94" : {
       "name" : "Shadow Eclipse",
       "id" : "grp_10f98d7f-db39-4229-9e16-945458a99709",
       "hide_staff" : false,
       "admin" : [ "antidopamina", "JustªShadow", "Mykky_Kky", "YΛЯIMӨV", "༒η є м є ѕ ι ༒" ],
-      "staff" : [ "about_fil", "Asthemirea", "Cosimo97", "dilandog66", "Kenny_San", "killobeatbox adce", "leodedoge", "_N3RU_", "Pilota kamikaze", "ఌᴬᴸᴼᴺᴱఌ" ]
+      "staff" : [ "about_fil", "Asthemirea", "Blanc_Death", "Cosimo97", "dilandog66", "Kenny_San", "killobeatbox adce", "_N3RU_", "Pilota kamikaze", "ఌᴬᴸᴼᴺᴱఌ" ]
     },
     "30e8b87c-53af-41cb-b1f0-eb6bf9ee01e3" : {
       "name" : "SILVESTRI I COGLIONI DESTRI",
@@ -126,20 +133,20 @@
       "id" : "grp_1583b5c4-a7cc-4e69-90bf-456318c2a9e4",
       "hide_staff" : false,
       "admin" : [ "ImFazee", "Till Valyx" ],
-      "staff" : [ "c4t_boy", "enkss", "-Flowey-", "GoldenRose50 b9c5", "Haxurus", "Jinlod", "Kevindemorte", "-o0 MĪTTLĘ 0o-", "Pietro9669", "Ramacka", "Volpo", "__WillyWonka__", "_валя" ]
+      "staff" : [ "c4t_boy", "enkss", "-Flowey-", "GoldenRose50 b9c5", "Haxurus", "Jinlod", "Kevindemorte", "MĮTTLĘ", "Pietro9669", "Ramacka", "Volpo", "__WillyWonka__", "_валя" ]
     },
     "c286c452-1c36-40e3-bee8-977e9a9222bc" : {
       "name" : "TROPICHILL ITALIA",
       "id" : "grp_50982855-1b9f-40b5-bb5e-dd3a041af6ba",
       "hide_staff" : false,
       "admin" : [ "Devilmen178", "Fasci", "Gianpippo_Banan", "_N3RU_", "_viper20_" ],
-      "staff" : [ "ignzio_", "inquisitore739", "LORD BREAD 76", "RobyRolla", "YΛЯIMӨV" ]
+      "staff" : [ "ignzio_", "inquisitore739", "LORD BREAD 76", "Velkayra", "YΛЯIMӨV" ]
     },
     "86a25624-e3bb-46b9-959f-2273933558a7" : {
       "name" : "Winnita Casinò",
       "id" : "grp_0d70ab25-c499-41e6-abdf-5c37a502b239",
       "hide_staff" : true,
-      "admin" : [ "Mable Bubble", "-o0 MĪTTLĘ 0o-", "-Q4-" ],
+      "admin" : [ "Frutiger Aery", "MĮTTLĘ", "-Q4-" ],
       "staff" : [ ]
     }
   },
