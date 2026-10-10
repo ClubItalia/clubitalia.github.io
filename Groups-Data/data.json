@@ -86,12 +86,19 @@
       "admin" : [ "JaronaTheReal1", "Sluka64" ],
       "staff" : [ "BennyXD39", "bo_289", "Cicciogamer89", "LelyanVelv Hope", "Ray289", "Tesco_" ]
     },
+    "7bce03ea-0d4c-4844-8cdc-57f4382cd41f" : {
+      "name" : "NEW ERA",
+      "id" : "grp_ce307b8a-5417-49f0-ba6f-669e8425eaad",
+      "hide_staff" : false,
+      "admin" : [ "el_diocristo", "Samuso103" ],
+      "staff" : [ ]
+    },
     "2363ea7e-2a31-4fc3-8e37-ee4aba716681" : {
       "name" : "Nova Core",
       "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
       "hide_staff" : false,
       "admin" : [ "ŁEVƗΔŦĦΔŇ", "LuxAeterni", "°MEL°", "_Pablito__", "WereWolfix" ],
-      "staff" : [ ]
+      "staff" : [ "brusch3tta" ]
     },
     "a9e4ab4b-1291-4b99-baa8-bbb864e7dd94" : {
       "name" : "Shadow Eclipse",
@@ -112,13 +119,6 @@
       "id" : "grp_e1ae4964-403d-4728-837a-7eeced2e1243",
       "hide_staff" : false,
       "admin" : [ "AkiraOkumura" ],
-      "staff" : [ ]
-    },
-    "7bce03ea-0d4c-4844-8cdc-57f4382cd41f" : {
-      "name" : "STATO-VENETO",
-      "id" : "grp_ce307b8a-5417-49f0-ba6f-669e8425eaad",
-      "hide_staff" : false,
-      "admin" : [ "el_diocristo", "Samuso103" ],
       "staff" : [ ]
     },
     "59bc1b47-e9dd-4d42-85fd-a9b8e0166d41" : {
