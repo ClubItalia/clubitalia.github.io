@@ -93,6 +93,13 @@
       "admin" : [ "ŁEVƗΔŦĦΔŇ", "LuxAeterni", "°MEL°", "_Pablito__", "WereWolfix" ],
       "staff" : [ "brusch3tta", "Mattia25", "Samuso103" ]
     },
+    "ba2e93a1-473d-4291-9506-05f691b5ac17" : {
+      "name" : "REGULAR ITALIAN",
+      "id" : "grp_c39f61da-8ae5-400f-9872-03a4b66392e3",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "a9e4ab4b-1291-4b99-baa8-bbb864e7dd94" : {
       "name" : "Shadow Eclipse",
       "id" : "grp_10f98d7f-db39-4229-9e16-945458a99709",
