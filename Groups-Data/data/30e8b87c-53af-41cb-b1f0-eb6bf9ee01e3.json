@@ -2,10 +2,13 @@
   "name" : "SILVESTRI I COGLIONI DESTRI",
   "has_logo" : true,
   "has_banner" : false,
-  "rules" : null,
+  "rules" : {
+    "title" : "Regolamento SILVESTRI I COGLIONI DESTRI",
+    "body" : "contattare lo staff in caso si dovesse creare scompiglio"
+  },
   "statistics" : {
-    "instances_created" : 0,
-    "uptime_minutes" : 0,
+    "instances_created" : 1,
+    "uptime_minutes" : 8,
     "period_days" : 30,
     "member_count" : 0
   }
