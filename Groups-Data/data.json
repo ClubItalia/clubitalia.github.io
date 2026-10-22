@@ -72,6 +72,13 @@
       "admin" : [ "Atomic_1002 faad", "ᴋ ʏ ᴀ ᴍ ɪ", "Vortex126" ],
       "staff" : [ "¥I Z A N A M I¥", "bo_289", "CornPoP_02", "MarcoBaux", "save_1308", "ulti_i", "wooper09" ]
     },
+    "a9e4ab4b-1291-4b99-baa8-bbb864e7dd94" : {
+      "name" : "METRO",
+      "id" : "grp_10f98d7f-db39-4229-9e16-945458a99709",
+      "hide_staff" : false,
+      "admin" : [ "antidopamina", "JustªShadow", "ŁEVƗΔŦĦΔŇ", "Mykky_Kky", "YΛЯIMӨV" ],
+      "staff" : [ "about_fil", "Asthemirea", "Blanc_Death", "Cosimo97", "dilandog66", "Kenny_San", "killobeatbox adce", "_N3RU_", "Pilota kamikaze", "ΒΞ̶L̶̶I̶Δ̶L̶" ]
+    },
     "dd6e49d4-1ab4-442f-ba93-f18dc335ef96" : {
       "name" : "NerdITALIA",
       "id" : "grp_3fc86287-b9db-42a1-9e5a-c0da01203ef3",
@@ -90,7 +97,7 @@
       "name" : "Nova Core",
       "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
       "hide_staff" : false,
-      "admin" : [ "brusch3tta", "Feldarin", "ŁEVƗΔŦĦΔŇ", "LuxAeterni", "°MEL°", "_Pablito__", "Samuso103", "WereWolfix", "-ᆞMᆞᆞEᆞᆞEᆞᆞPᆞ-" ],
+      "admin" : [ "brusch3tta", "Feldarin", "LuxAeterni", "°MEL°", "_Pablito__", "Samuso103", "WereWolfix", "-ᆞMᆞᆞEᆞᆞEᆞᆞPᆞ-" ],
       "staff" : [ "Asapda", "Vortex126" ]
     },
     "ba2e93a1-473d-4291-9506-05f691b5ac17" : {
@@ -99,13 +106,6 @@
       "hide_staff" : false,
       "admin" : [ "cezar1048", "_GiareX5", "kebab_dizy 0bca", "_mayvx" ],
       "staff" : [ "gashc", "Kev_1n b227" ]
-    },
-    "a9e4ab4b-1291-4b99-baa8-bbb864e7dd94" : {
-      "name" : "Shadow Eclipse",
-      "id" : "grp_10f98d7f-db39-4229-9e16-945458a99709",
-      "hide_staff" : false,
-      "admin" : [ "antidopamina", "JustªShadow", "ŁEVƗΔŦĦΔŇ", "Mykky_Kky", "YΛЯIMӨV" ],
-      "staff" : [ "about_fil", "Asthemirea", "Blanc_Death", "Cosimo97", "dilandog66", "Kenny_San", "killobeatbox adce", "_N3RU_", "Pilota kamikaze", "ΒΞ̶L̶̶I̶Δ̶L̶" ]
     },
     "30e8b87c-53af-41cb-b1f0-eb6bf9ee01e3" : {
       "name" : "SILVESTRI I COGLIONI DESTRI",
