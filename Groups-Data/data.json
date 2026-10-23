@@ -2,6 +2,13 @@
   "admin" : [ ],
   "staff" : [ "Ahri~", "appi49", "Arlecchino͘", "BlackStartx", "Daino_Selvatico", "-Friggy-", "Fxndy", "♡ GaNyan ♡", "GUłŁŁER", "∗ Kimera ∗", "Kronix＾", "Ledylight", "Naruki_", "NinaV2", "papera1", "Pastina-Chan", "QUIZO_", "Ramses82", "Sayl_", "Taz-87", "TheIceDragonz", "Toxi10", "Vamperias", "xFuSioN759", "ღFoxღ", "亞M-Angler-W亞" ],
   "groups" : {
+    "a0b4abea-b9ad-4a9c-ab86-66da3e944b5a" : {
+      "name" : "abora",
+      "id" : "grp_a432786e-f5df-4efe-b255-037ddd4cca69",
+      "hide_staff" : false,
+      "admin" : [ "Atomic_1002 faad", "ᴋ ʏ ᴀ ᴍ ɪ", "Vortex126" ],
+      "staff" : [ "¥I Z A N A M I¥", "bo_289", "CornPoP_02", "MarcoBaux", "save_1308", "ulti_i", "wooper09" ]
+    },
     "1b46dcc7-4dca-4cbb-9575-3343c9253fca" : {
       "name" : "Adulatori di Kira",
       "id" : "grp_88e5d859-8431-40fb-9bfc-9e9e3a4596d7",
@@ -37,6 +44,13 @@
       "admin" : [ "Albertocolella", "_andr3", "~Gold" ],
       "staff" : [ "Eight_Enamhto 5d0d" ]
     },
+    "2c569ba2-1b9d-4d69-917d-f36b1ca80391" : {
+      "name" : "Hispaloco",
+      "id" : "grp_a2fdf485-bb52-4143-b6eb-c1d761606a6d",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "32520897-6c49-472c-82a5-b07695047c5f" : {
       "name" : "IL_COMUNE_DI_CAGLIARI",
       "id" : "grp_ef468013-27e0-4384-b763-5c79d9bfc6cf",
@@ -56,7 +70,7 @@
       "id" : "grp_26042422-a435-432e-8811-9d3a2e494101",
       "hide_staff" : false,
       "admin" : [ "ItsYunoGxsai", "Mozzie-_-", "Ray289" ],
-      "staff" : [ "bo_289", "Dracon_Fire", "Luca_289" ]
+      "staff" : [ "bo_289", "Luca_289", "Purple_dust" ]
     },
     "289c37f8-37c1-415a-b88e-068b9ae17d94" : {
       "name" : "ItalyVRC",
@@ -65,18 +79,11 @@
       "admin" : [ "animanga0", "REV-Dany" ],
       "staff" : [ ]
     },
-    "a0b4abea-b9ad-4a9c-ab86-66da3e944b5a" : {
-      "name" : "Kairos Phanteon ITA",
-      "id" : "grp_a432786e-f5df-4efe-b255-037ddd4cca69",
-      "hide_staff" : false,
-      "admin" : [ "Atomic_1002 faad", "ᴋ ʏ ᴀ ᴍ ɪ", "Vortex126" ],
-      "staff" : [ "¥I Z A N A M I¥", "bo_289", "CornPoP_02", "MarcoBaux", "save_1308", "ulti_i", "wooper09" ]
-    },
     "a9e4ab4b-1291-4b99-baa8-bbb864e7dd94" : {
       "name" : "METRO",
       "id" : "grp_10f98d7f-db39-4229-9e16-945458a99709",
       "hide_staff" : false,
-      "admin" : [ "antidopamina", "JustªShadow", "ŁEVƗΔŦĦΔŇ", "Mykky_Kky", "YΛЯIMӨV" ],
+      "admin" : [ "antidopamina", "JustªShadow", "Mykky_Kky", "YΛЯIMӨV", "༒η є м є ѕ ι ༒" ],
       "staff" : [ "about_fil", "Asthemirea", "Blanc_Death", "Cosimo97", "dilandog66", "Kenny_San", "killobeatbox adce", "_N3RU_", "Pilota kamikaze", "ΒΞ̶L̶̶I̶Δ̶L̶" ]
     },
     "dd6e49d4-1ab4-442f-ba93-f18dc335ef96" : {
@@ -129,7 +136,7 @@
       "staff" : [ ]
     },
     "1acf1ed8-6a76-43e9-8908-6f3d1a501d1e" : {
-      "name" : "The Nova Agency",
+      "name" : "The Nova Coalition",
       "id" : "grp_28cfc7e0-e5d0-4960-b9cb-4693f59787c4",
       "hide_staff" : true,
       "admin" : [ "MĮTTLĘ" ],
