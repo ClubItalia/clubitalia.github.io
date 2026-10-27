@@ -35,7 +35,7 @@
       "id" : "grp_e4e6d631-55a6-4873-b353-054830de9756",
       "hide_staff" : false,
       "admin" : [ "c4t_boy" ],
-      "staff" : [ ]
+      "staff" : [ "Raffaele11" ]
     },
     "8d6a36cc-8973-4232-87e9-67681a72cbbd" : {
       "name" : "Club Italia",
@@ -146,7 +146,7 @@
       "name" : "The Nova Coalition",
       "id" : "grp_28cfc7e0-e5d0-4960-b9cb-4693f59787c4",
       "hide_staff" : true,
-      "admin" : [ "MĮTTLĘ" ],
+      "admin" : [ "MîTTLĘ༒ƝØVÄ" ],
       "staff" : [ ]
     },
     "1304e344-d2e2-412c-a0a2-301017e9461c" : {
@@ -154,7 +154,7 @@
       "id" : "grp_1583b5c4-a7cc-4e69-90bf-456318c2a9e4",
       "hide_staff" : false,
       "admin" : [ "ImFazee", "Till Valyx" ],
-      "staff" : [ "c4t_boy", "enkss", "-Flowey-", "GoldenRose50 b9c5", "Haxurus", "Jinlod", "Kevindemorte", "MĮTTLĘ", "Pietro9669", "Ramacka", "Volpo", "__WillyWonka__", "_валя" ]
+      "staff" : [ "c4t_boy", "enkss", "-Flowey-", "GoldenRose50 b9c5", "Haxurus", "Jinlod", "Kevindemorte", "MîTTLĘ༒ƝØVÄ", "Pietro9669", "Ramacka", "Volpo", "__WillyWonka__", "_валя" ]
     },
     "c286c452-1c36-40e3-bee8-977e9a9222bc" : {
       "name" : "VAIIYA",
@@ -167,7 +167,7 @@
       "name" : "Winnita Casinò",
       "id" : "grp_0d70ab25-c499-41e6-abdf-5c37a502b239",
       "hide_staff" : true,
-      "admin" : [ "Frutiger Aery", "MĮTTLĘ", "-Q4-" ],
+      "admin" : [ "Frutiger Aery", "MîTTLĘ༒ƝØVÄ", "-Q4-" ],
       "staff" : [ ]
     }
   },
