@@ -118,7 +118,7 @@
       "name" : "~ SHADOW GARDEN ITA ~",
       "id" : "grp_ef181215-f3a5-45e3-bad5-36d562336b08",
       "hide_staff" : false,
-      "admin" : [ ],
+      "admin" : [ "c4t_boy" ],
       "staff" : [ ]
     },
     "30e8b87c-53af-41cb-b1f0-eb6bf9ee01e3" : {
