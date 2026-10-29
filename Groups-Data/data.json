@@ -114,6 +114,13 @@
       "admin" : [ "cezar1048", "_GiareX5", "kebab_dizy 0bca", "_mayvx" ],
       "staff" : [ "gashc", "Kev_1n b227" ]
     },
+    "808fffad-9655-4ea4-948a-6c0bc38467d2" : {
+      "name" : "~ SHADOW GARDEN ITA ~",
+      "id" : "grp_ef181215-f3a5-45e3-bad5-36d562336b08",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "30e8b87c-53af-41cb-b1f0-eb6bf9ee01e3" : {
       "name" : "SILVESTRI I COGLIONI DESTRI",
       "id" : "grp_7fc7efed-0d08-4c43-b711-318b8a5df821",
