@@ -44,6 +44,13 @@
       "admin" : [ "Albertocolella", "_andr3", "~Gold" ],
       "staff" : [ "Eight_Enamhto 5d0d" ]
     },
+    "c8945a4b-7a59-4644-bc9f-22b2247598e8" : {
+      "name" : "Flowey's Garden",
+      "id" : "grp_d25e188e-3816-4fc3-8430-ec956cda53ce",
+      "hide_staff" : false,
+      "admin" : [ ],
+      "staff" : [ ]
+    },
     "2c569ba2-1b9d-4d69-917d-f36b1ca80391" : {
       "name" : "Hispaloco",
       "id" : "grp_a2fdf485-bb52-4143-b6eb-c1d761606a6d",
@@ -97,14 +104,14 @@
       "name" : "NEW ERA",
       "id" : "grp_ce307b8a-5417-49f0-ba6f-669e8425eaad",
       "hide_staff" : false,
-      "admin" : [ "el_diocristo", "Samuso103" ],
+      "admin" : [ "el_diocristo", "-SAMUSO-" ],
       "staff" : [ ]
     },
     "2363ea7e-2a31-4fc3-8e37-ee4aba716681" : {
       "name" : "Nova Core",
       "id" : "grp_1d08715f-6325-44eb-8853-afcc66f1a0e4",
       "hide_staff" : false,
-      "admin" : [ "Asapda", "brusch3tta", "Feldarin", "LuxAeterni", "°MEL°", "_Pablito__", "Samuso103", "WereWolfix", "༒η є м є ѕ ι ༒", "-ᆞMᆞᆞEᆞᆞEᆞᆞPᆞ-" ],
+      "admin" : [ "Asapda", "brusch3tta", "Feldarin", "LuxAeterni", "°MEL°", "_Pablito__", "-SAMUSO-", "WereWolfix", "༒η є м є ѕ ι ༒", "-ᆞMᆞᆞEᆞᆞEᆞᆞPᆞ-" ],
       "staff" : [ "DaLegitSara__", "soul 5168", "Vortex126" ]
     },
     "ba2e93a1-473d-4291-9506-05f691b5ac17" : {
@@ -153,7 +160,7 @@
       "name" : "The Realms ITA",
       "id" : "grp_1583b5c4-a7cc-4e69-90bf-456318c2a9e4",
       "hide_staff" : false,
-      "admin" : [ "ImFazee", "Till Valyx" ],
+      "admin" : [ "༒ Alyssa ༒", "ImFazee" ],
       "staff" : [ "c4t_boy", "enkss", "-Flowey-", "GoldenRose50 b9c5", "Haxurus", "Jinlod", "Kevindemorte", "MîTTLĘ༒ƝØVÄ", "Pietro9669", "Ramacka", "Volpo", "__WillyWonka__", "_валя" ]
     },
     "c286c452-1c36-40e3-bee8-977e9a9222bc" : {
