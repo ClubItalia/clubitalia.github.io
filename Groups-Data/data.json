@@ -37,13 +37,6 @@
       "admin" : [ "Jixteria" ],
       "staff" : [ ]
     },
-    "fbd76cb5-32ba-4be9-b58f-bca1d4a7498d" : {
-      "name" : "COLELLA'S MAFIA",
-      "id" : "grp_fd9112d4-873e-4486-a35a-dce829880a98",
-      "hide_staff" : false,
-      "admin" : [ "Albertocolella", "_andr3", "~Gold" ],
-      "staff" : [ "Eight_Enamhto 5d0d" ]
-    },
     "c8945a4b-7a59-4644-bc9f-22b2247598e8" : {
       "name" : "Flowey's Garden",
       "id" : "grp_d25e188e-3816-4fc3-8430-ec956cda53ce",
