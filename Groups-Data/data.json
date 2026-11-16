@@ -128,13 +128,6 @@
       "admin" : [ "AkiraOkumura" ],
       "staff" : [ ]
     },
-    "59bc1b47-e9dd-4d42-85fd-a9b8e0166d41" : {
-      "name" : "The Chicos Ørganización",
-      "id" : "grp_9e2ab70d-1260-4343-9e33-157369cd1983",
-      "hide_staff" : false,
-      "admin" : [ ],
-      "staff" : [ ]
-    },
     "1acf1ed8-6a76-43e9-8908-6f3d1a501d1e" : {
       "name" : "The Nova Coalition",
       "id" : "grp_28cfc7e0-e5d0-4960-b9cb-4693f59787c4",
