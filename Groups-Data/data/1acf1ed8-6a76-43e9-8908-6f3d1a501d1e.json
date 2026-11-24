@@ -1,11 +1,11 @@
 {
   "name" : "Eternal Abiss",
   "has_logo" : true,
-  "has_banner" : false,
+  "has_banner" : true,
   "rules" : null,
   "statistics" : {
     "instances_created" : 2,
-    "uptime_minutes" : 779,
+    "uptime_minutes" : 780,
     "period_days" : 30,
     "member_count" : 0
   }
