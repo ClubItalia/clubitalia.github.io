@@ -1,6 +1,6 @@
 {
   "name" : "Ride or die",
-  "has_logo" : false,
+  "has_logo" : true,
   "has_banner" : false,
   "rules" : {
     "title" : "Regolamento Ride or die",
