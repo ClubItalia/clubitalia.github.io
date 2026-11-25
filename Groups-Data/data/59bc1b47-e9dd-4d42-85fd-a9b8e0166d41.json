@@ -2,7 +2,10 @@
   "name" : "Ride or die",
   "has_logo" : false,
   "has_banner" : false,
-  "rules" : null,
+  "rules" : {
+    "title" : "Regolamento Ride or die",
+    "body" : "1. RISPETTO \nRispetta ogni membro del gruppo, senza eccezioni. Sono vietati insulti, prese in giro pesanti, razzismo, omofobia, sessismo e qualsiasi forma di discriminazione. Qui si scherza, ma non si umilia nessuno.\n\n2. LEALTÀ AL GRUPPO\nRIDE OR DIE non è un gruppo di passaggio. Se entri, entri per restare. Chi entra e sparisce senza motivo, chi entra solo per spiare o per portare gente in altri gruppi, viene rimosso.\n\n3. ZERO DRAMA\nSe hai un problema con un membro, non lo risolvi in pubblica, non lo risolvi in istanza davanti a tutti. Parli in privato con un Admin o con l'Owner. Chi crea drama, litigi o mette zizzania viene rimosso senza avvertimento.\n\n4. COMPORTAMENTO IN ISTANZA\nQuando sei in un'istanza RIDE OR DIE rappresenti tutto il gruppo.\n• Non trollare gli altri giocatori • Non usare avatar offensivi, con contenuti sessuali o razzisti • Non urlare, non spammare suoni, non crashare le istanze • Non entrare in istanze private del gruppo senza permesso \n5. RISERVATEZZA\nQuello che succede nel gruppo, resta nel gruppo. È vietato fare screenshot, registrare video o raccontare all'esterno conversazioni private, litigi o questioni interne. La fiducia è tutto.\n\n6. RISPETTA LO STAFF\nLe decisioni di Owner, Admin e Moderator sono definitive. Se un Moderator ti dice di fermarti, ti fermi. Se non sei d'accordo, ne parli in privato dopo, non davanti a tutti.\n\n7. ATTIVITÀ\nNon ti chiediamo di essere online tutti i giorni, ma di esserci. Se resti inattivo per più di 30 giorni senza avvisare, perdi il ruolo e il posto nel gruppo. Basta un messaggio: \"ragazzi per un po' non ci sono\".\n\n8. NIENTE PUBBLICITÀ\nÈ vietato pubblicizzare altri gruppi, altri server Discord o altri contenuti senza il permesso dell'Owner.\n\n9. ETÀ E MATURITÀ\nRIDE OR DIE è un gruppo serio. Non è un"
+  },
   "statistics" : {
     "instances_created" : 0,
     "uptime_minutes" : 0,
